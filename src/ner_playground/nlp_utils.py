@@ -56,6 +56,9 @@ class Token:
 
 
 def tokenize(text: str):
+    '''
+    Tokenize text into tokens with start and end index
+    '''
     encoded = TOKENIZER.encode_plus(text, return_offsets_mapping=True)
     ids = encoded["input_ids"]
     offsets = encoded["offset_mapping"]
