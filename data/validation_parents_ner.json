@@ -1,0 +1,3565 @@
+[
+    {
+        "sentence_id": "207e43bd-33d0-4015-86f5-e3742943fc0a",
+        "tokens": [
+            "[CLS]",
+            "let",
+            "me",
+            "just",
+            "double",
+            "check",
+            "there",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2292,
+            2033,
+            2074,
+            3313,
+            4638,
+            2045,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Perceptual",
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            0,
+            13,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "677e16cb-3282-45be-b535-9347fb092d08",
+        "tokens": [
+            "[CLS]",
+            "what",
+            "are",
+            "you",
+            "doing",
+            "huh",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2054,
+            2024,
+            2017,
+            2725,
+            9616,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            5,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "8f873564-bf07-48bb-981e-0508526128c5",
+        "tokens": [
+            "[CLS]",
+            "i",
+            "gotta",
+            "put",
+            "my",
+            "sister",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1045,
+            10657,
+            2404,
+            2026,
+            2905,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "B-Behavioral",
+            "B-Behavioral",
+            "O",
+            "B-Social Kind/Role",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            3,
+            3,
+            0,
+            15,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "376571a2-ef3c-4a09-a8b9-fcf90a6497b8",
+        "tokens": [
+            "[CLS]",
+            "yes",
+            "you",
+            "'",
+            "re",
+            "ready",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2748,
+            2017,
+            1005,
+            2128,
+            3201,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            0,
+            0,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "3d75d246-41fa-4cd8-b84d-de321e69ab6f",
+        "tokens": [
+            "[CLS]",
+            "it",
+            "'",
+            "s",
+            "baby",
+            "xx",
+            "##x",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2009,
+            1005,
+            1055,
+            3336,
+            22038,
+            2595,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "B-Biological Kind",
+            "O",
+            -100,
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            5,
+            0,
+            -100,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "f923a3bc-5e72-4926-82fd-4a6b08638bc0",
+        "tokens": [
+            "[CLS]",
+            "bite",
+            "their",
+            "heads",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            6805,
+            2037,
+            4641,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "O",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            0,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "649c3718-b352-41d3-b61b-20bf993747b7",
+        "tokens": [
+            "[CLS]",
+            "close",
+            "your",
+            "eyes",
+            "and",
+            "visual",
+            "##ize",
+            "and",
+            "xx",
+            "##x",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2485,
+            2115,
+            2159,
+            1998,
+            5107,
+            4697,
+            1998,
+            22038,
+            2595,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Behavioral",
+            -100,
+            "O",
+            "O",
+            -100,
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            0,
+            5,
+            0,
+            3,
+            -100,
+            0,
+            0,
+            -100,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "00f85ce9-a72e-464f-ba5d-0db652c3e771",
+        "tokens": [
+            "[CLS]",
+            "it",
+            "falls",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2009,
+            4212,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "07dfb029-196c-4db6-a7c9-fff69233d4c3",
+        "tokens": [
+            "[CLS]",
+            "can",
+            "you",
+            "say",
+            "hi",
+            "amanda",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2064,
+            2017,
+            2360,
+            7632,
+            8282,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            3,
+            0,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "9076ac33-60c7-4ef1-8a6b-b3d25587c2ec",
+        "tokens": [
+            "[CLS]",
+            "bye",
+            "willie",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            9061,
+            9893,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "85c18f6a-6bcc-45b5-801d-eb44d6bf9a7d",
+        "tokens": [
+            "[CLS]",
+            "and",
+            "you",
+            "can",
+            "have",
+            "it",
+            "back",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1998,
+            2017,
+            2064,
+            2031,
+            2009,
+            2067,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Behavioral",
+            "O",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            0,
+            3,
+            0,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "5a999420-86c4-4a4a-bc06-7a082d101515",
+        "tokens": [
+            "[CLS]",
+            "right",
+            "patrick",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2157,
+            4754,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Normative Feature",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            11,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "cab691b2-409d-43a3-bc4b-e5ed7e5f30e8",
+        "tokens": [
+            "[CLS]",
+            "in",
+            "that",
+            "little",
+            "tiny",
+            "hole",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1999,
+            2008,
+            2210,
+            4714,
+            4920,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Perceptual",
+            "B-Perceptual",
+            "B-Non-Living Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            13,
+            13,
+            9,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "6d588384-2453-4771-b98e-f89a77e53b31",
+        "tokens": [
+            "[CLS]",
+            "piles",
+            "of",
+            "fish",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            18526,
+            1997,
+            3869,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Perceptual",
+            "O",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            13,
+            0,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "35b4b262-9f1c-4c26-ad14-4c3f37096fc1",
+        "tokens": [
+            "[CLS]",
+            "toys",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            10899,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Artifacts",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            1,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "066830e3-7509-4141-b861-0f91433e5f39",
+        "tokens": [
+            "[CLS]",
+            "what",
+            "should",
+            "i",
+            "do",
+            "in",
+            "the",
+            "microphone",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2054,
+            2323,
+            1045,
+            2079,
+            1999,
+            1996,
+            15545,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "O",
+            "B-Artifacts",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            5,
+            3,
+            0,
+            0,
+            1,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "a2acc98f-1675-4517-9352-edd8c94ad94c",
+        "tokens": [
+            "[CLS]",
+            "you",
+            "make",
+            "it",
+            "come",
+            "this",
+            "finger",
+            "come",
+            "back",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2017,
+            2191,
+            2009,
+            2272,
+            2023,
+            4344,
+            2272,
+            2067,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "B-Behavioral",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            3,
+            0,
+            3,
+            0,
+            5,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "1b8875ed-8aa7-4649-9705-e66001a30163",
+        "tokens": [
+            "[CLS]",
+            "come",
+            "on",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2272,
+            2006,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "e94b6f6a-167a-44f6-8a1b-329b1000e709",
+        "tokens": [
+            "[CLS]",
+            "how",
+            "can",
+            "he",
+            "be",
+            "so",
+            "hungry",
+            "huh",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2129,
+            2064,
+            2002,
+            2022,
+            2061,
+            7501,
+            9616,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "B-Mental State",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            5,
+            0,
+            0,
+            7,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "3eba2e5d-8efe-4731-861b-cb1fb5bcfb55",
+        "tokens": [
+            "[CLS]",
+            "come",
+            "on",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2272,
+            2006,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "5f778ccc-279b-4126-b6c3-a7a4535cdd04",
+        "tokens": [
+            "[CLS]",
+            "dad",
+            "can",
+            "you",
+            "pick",
+            "that",
+            "up",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            3611,
+            2064,
+            2017,
+            4060,
+            2008,
+            2039,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            0,
+            5,
+            3,
+            0,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "50aaf740-100c-495b-bf64-519bb45a3777",
+        "tokens": [
+            "[CLS]",
+            "i",
+            "see",
+            "your",
+            "cookie",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1045,
+            2156,
+            2115,
+            17387,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "B-Artifacts",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            3,
+            0,
+            1,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "9d124721-78d7-4389-84fb-475baac287ec",
+        "tokens": [
+            "[CLS]",
+            "remember",
+            "we",
+            "made",
+            "these",
+            "beautiful",
+            "flowers",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            3342,
+            2057,
+            2081,
+            2122,
+            3376,
+            4870,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Mental State",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "B-Normative Feature",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            7,
+            5,
+            3,
+            0,
+            11,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "9407e1fb-cd47-45c6-b41d-aecc5e8e9c20",
+        "tokens": [
+            "[CLS]",
+            "not",
+            "win",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2025,
+            2663,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "aa3e5313-ae8d-4146-bdd7-99739f78303e",
+        "tokens": [
+            "[CLS]",
+            "xx",
+            "##x",
+            "make",
+            "the",
+            "play",
+            "_",
+            "do",
+            "##h",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            22038,
+            2595,
+            2191,
+            1996,
+            2377,
+            1035,
+            2079,
+            2232,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            -100,
+            "B-Behavioral",
+            "O",
+            "B-Artifacts",
+            "I-Artifacts",
+            "I-Artifacts",
+            -100,
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            -100,
+            3,
+            0,
+            1,
+            2,
+            2,
+            -100,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "6f82325a-a946-401f-8b37-5520d85b3049",
+        "tokens": [
+            "[CLS]",
+            "yeah",
+            "we",
+            "did",
+            "buy",
+            "a",
+            "snow",
+            "sl",
+            "##ed",
+            "at",
+            "the",
+            "toy",
+            "store",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            3398,
+            2057,
+            2106,
+            4965,
+            1037,
+            4586,
+            22889,
+            2098,
+            2012,
+            1996,
+            9121,
+            3573,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Behavioral",
+            "O",
+            "B-Artifacts",
+            "I-Artifacts",
+            -100,
+            "O",
+            "O",
+            "B-Artifacts",
+            "B-Social Kind/Role",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            0,
+            3,
+            0,
+            1,
+            2,
+            -100,
+            0,
+            0,
+            1,
+            15,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "212af0c1-27bd-4abf-8451-16e57c3650ae",
+        "tokens": [
+            "[CLS]",
+            "were",
+            "you",
+            "scared",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2020,
+            2017,
+            6015,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Mental State",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            7,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "5828b5b9-5489-438b-a05c-df34f6b863a1",
+        "tokens": [
+            "[CLS]",
+            "when",
+            "you",
+            "when",
+            "i",
+            "came",
+            "to",
+            "see",
+            "you",
+            "at",
+            "the",
+            "hospital",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2043,
+            2017,
+            2043,
+            1045,
+            2234,
+            2000,
+            2156,
+            2017,
+            2012,
+            1996,
+            2902,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "B-Behavioral",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "B-Social Kind/Role",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            0,
+            5,
+            3,
+            0,
+            3,
+            5,
+            0,
+            0,
+            15,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "abe59539-a6aa-4ce9-afae-2496c9883bad",
+        "tokens": [
+            "[CLS]",
+            "xx",
+            "##x",
+            "that",
+            "'",
+            "s",
+            "silly",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            22038,
+            2595,
+            2008,
+            1005,
+            1055,
+            10021,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            -100,
+            "O",
+            "O",
+            "O",
+            "B-Normative Feature",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            -100,
+            0,
+            0,
+            0,
+            11,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "4f5d67de-21d5-4b61-bea8-6cac0da6a633",
+        "tokens": [
+            "[CLS]",
+            "you",
+            "'",
+            "re",
+            "right",
+            "it",
+            "is",
+            "too",
+            "big",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2017,
+            1005,
+            2128,
+            2157,
+            2009,
+            2003,
+            2205,
+            2502,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "O",
+            "O",
+            "B-Normative Feature",
+            "O",
+            "O",
+            "O",
+            "B-Perceptual",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            0,
+            0,
+            11,
+            0,
+            0,
+            0,
+            13,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "8dd05ae3-d9a6-45f4-8c79-30960a0bfeb4",
+        "tokens": [
+            "[CLS]",
+            "um",
+            "and",
+            "it",
+            "seems",
+            "like",
+            "it",
+            "'",
+            "s",
+            "a",
+            "job",
+            "that",
+            "people",
+            "stay",
+            "with",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            8529,
+            1998,
+            2009,
+            3849,
+            2066,
+            2009,
+            1005,
+            1055,
+            1037,
+            3105,
+            2008,
+            2111,
+            2994,
+            2007,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Social Kind/Role",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            15,
+            0,
+            5,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "082f107e-7b8b-4795-9003-c765ea04fbef",
+        "tokens": [
+            "[CLS]",
+            "okay",
+            "are",
+            "your",
+            "eyes",
+            "closed",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            3100,
+            2024,
+            2115,
+            2159,
+            2701,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            5,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "860718a7-e370-43c7-a706-4bd555c763ed",
+        "tokens": [
+            "[CLS]",
+            "the",
+            "little",
+            "girl",
+            "wore",
+            "it",
+            "everyday",
+            "and",
+            "that",
+            "is",
+            "why",
+            "she",
+            "is",
+            "called",
+            "little",
+            "red",
+            "riding",
+            "hood",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1996,
+            2210,
+            2611,
+            5078,
+            2009,
+            10126,
+            1998,
+            2008,
+            2003,
+            2339,
+            2016,
+            2003,
+            2170,
+            2210,
+            2417,
+            5559,
+            7415,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Perceptual",
+            "B-Social Kind/Role",
+            "B-Behavioral",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Behavioral",
+            "B-Biological Kind",
+            "I-Biological Kind",
+            "I-Biological Kind",
+            "I-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            13,
+            15,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            5,
+            0,
+            3,
+            5,
+            6,
+            6,
+            6,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "09a7fcca-b792-4186-839d-5eafcc40d672",
+        "tokens": [
+            "[CLS]",
+            "well",
+            "what",
+            "you",
+            "gonna",
+            "get",
+            "me",
+            "for",
+            "christmas",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2092,
+            2054,
+            2017,
+            6069,
+            2131,
+            2033,
+            2005,
+            4234,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "B-Behavioral",
+            "B-Biological Kind",
+            "O",
+            "B-Social Kind/Role",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            5,
+            3,
+            3,
+            5,
+            0,
+            15,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "503f4f5e-19e2-4ca7-b528-b86f75ca1526",
+        "tokens": [
+            "[CLS]",
+            "um",
+            "uh",
+            "its",
+            "little",
+            "back",
+            "opens",
+            "i",
+            "don",
+            "'",
+            "t",
+            "know",
+            "what",
+            "that",
+            "'",
+            "s",
+            "called",
+            "but",
+            "to",
+            "um",
+            "and",
+            "then",
+            "those",
+            "are",
+            "the",
+            "wings",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            8529,
+            7910,
+            2049,
+            2210,
+            2067,
+            7480,
+            1045,
+            2123,
+            1005,
+            1056,
+            2113,
+            2054,
+            2008,
+            1005,
+            1055,
+            2170,
+            2021,
+            2000,
+            8529,
+            1998,
+            2059,
+            2216,
+            2024,
+            1996,
+            4777,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "B-Perceptual",
+            "O",
+            "B-Behavioral",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "O",
+            "B-Behavioral",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Behavioral",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            13,
+            0,
+            3,
+            5,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "d2a71806-65aa-49a5-af39-9aec267305ea",
+        "tokens": [
+            "[CLS]",
+            "you",
+            "wanna",
+            "read",
+            "it",
+            "with",
+            "me",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2017,
+            10587,
+            3191,
+            2009,
+            2007,
+            2033,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "B-Mental State",
+            "B-Behavioral",
+            "O",
+            "O",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            7,
+            3,
+            0,
+            0,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "6af16e92-e31b-4521-92ad-6c859fbb305e",
+        "tokens": [
+            "[CLS]",
+            "we",
+            "'",
+            "ll",
+            "ha",
+            "##ft",
+            "##a",
+            "go",
+            "look",
+            "for",
+            "it",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2057,
+            1005,
+            2222,
+            5292,
+            6199,
+            2050,
+            2175,
+            2298,
+            2005,
+            2009,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "O",
+            "O",
+            "O",
+            -100,
+            -100,
+            "B-Behavioral",
+            "B-Behavioral",
+            "O",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            0,
+            0,
+            0,
+            -100,
+            -100,
+            3,
+            3,
+            0,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "476d1b45-ec74-45e6-a019-94c2190119c5",
+        "tokens": [
+            "[CLS]",
+            "read",
+            "me",
+            "this",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            3191,
+            2033,
+            2023,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "B-Biological Kind",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            5,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "0b8832c4-bd50-484a-9d7e-cbb537e1f5f4",
+        "tokens": [
+            "[CLS]",
+            "we",
+            "'",
+            "ll",
+            "do",
+            "some",
+            "more",
+            "later",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2057,
+            1005,
+            2222,
+            2079,
+            2070,
+            2062,
+            2101,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "1fd24708-3427-4231-be9a-e1e29aa34973",
+        "tokens": [
+            "[CLS]",
+            "there",
+            "you",
+            "can",
+            "find",
+            "there",
+            "'",
+            "s",
+            "an",
+            "elephant",
+            "but",
+            "see",
+            "you",
+            "ha",
+            "##ft",
+            "##a",
+            "lay",
+            "them",
+            "out",
+            "on",
+            "the",
+            "floor",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2045,
+            2017,
+            2064,
+            2424,
+            2045,
+            1005,
+            1055,
+            2019,
+            10777,
+            2021,
+            2156,
+            2017,
+            5292,
+            6199,
+            2050,
+            3913,
+            2068,
+            2041,
+            2006,
+            1996,
+            2723,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Behavioral",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Behavioral",
+            "B-Biological Kind",
+            "O",
+            -100,
+            -100,
+            "B-Behavioral",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "O",
+            "B-Non-Living Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            0,
+            3,
+            0,
+            0,
+            0,
+            0,
+            5,
+            0,
+            3,
+            5,
+            0,
+            -100,
+            -100,
+            3,
+            5,
+            0,
+            0,
+            0,
+            9,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "d7bd6dce-c05f-45a3-8310-cd893b66f264",
+        "tokens": [
+            "[CLS]",
+            "xx",
+            "##x",
+            "try",
+            "and",
+            "do",
+            "the",
+            "other",
+            "one",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            22038,
+            2595,
+            3046,
+            1998,
+            2079,
+            1996,
+            2060,
+            2028,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            -100,
+            "B-Behavioral",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Perceptual",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            -100,
+            3,
+            0,
+            0,
+            0,
+            0,
+            13,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "2fe87019-a29d-4469-b10e-90be392356da",
+        "tokens": [
+            "[CLS]",
+            "what",
+            "'",
+            "s",
+            "the",
+            "name",
+            "of",
+            "that",
+            "song",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2054,
+            1005,
+            1055,
+            1996,
+            2171,
+            1997,
+            2008,
+            2299,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Social Kind/Role",
+            "O",
+            "O",
+            "B-Artifacts",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            0,
+            15,
+            0,
+            0,
+            1,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "4260a995-d8f0-47c5-9a8d-b6b81ecf1590",
+        "tokens": [
+            "[CLS]",
+            "this",
+            "bee",
+            "has",
+            "weird",
+            "hair",
+            "feel",
+            "that",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2023,
+            10506,
+            2038,
+            6881,
+            2606,
+            2514,
+            2008,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Normative Feature",
+            "B-Biological Kind",
+            "B-Mental State",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            0,
+            11,
+            5,
+            7,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "e57e28af-9a1b-405b-96fc-cd12c8a4f8aa",
+        "tokens": [
+            "[CLS]",
+            "dad",
+            "##a",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            3611,
+            2050,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Social Kind/Role",
+            -100,
+            -100
+        ],
+        "label_ids": [
+            -100,
+            15,
+            -100,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "4675dc3b-fbd7-426e-8848-6ac898679fbb",
+        "tokens": [
+            "[CLS]",
+            "wanna",
+            "floppy",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            10587,
+            28491,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Mental State",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            7,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "a5d7648c-5407-4fc2-b3b9-8aeaf16774b9",
+        "tokens": [
+            "[CLS]",
+            "there",
+            "you",
+            "go",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2045,
+            2017,
+            2175,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "e74eeb15-417a-462e-b111-d86d7f2de2a9",
+        "tokens": [
+            "[CLS]",
+            "are",
+            "you",
+            "silly",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2024,
+            2017,
+            10021,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Normative Feature",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            11,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "be1b2269-3288-4960-a14d-45f4b2cfe31f",
+        "tokens": [
+            "[CLS]",
+            "call",
+            "me",
+            "up",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2655,
+            2033,
+            2039,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "B-Biological Kind",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            5,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "d948b809-91ec-443f-9380-f50818b7604f",
+        "tokens": [
+            "[CLS]",
+            "get",
+            "away",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2131,
+            2185,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "c555ef52-4a1e-4fff-8f9a-1639f2d46330",
+        "tokens": [
+            "[CLS]",
+            "can",
+            "i",
+            "do",
+            "it",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2064,
+            1045,
+            2079,
+            2009,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "0ddc94b4-2fa7-4cc9-8fbd-603a87db8966",
+        "tokens": [
+            "[CLS]",
+            "then",
+            "she",
+            "came",
+            "and",
+            "got",
+            "them",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2059,
+            2016,
+            2234,
+            1998,
+            2288,
+            2068,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "B-Behavioral",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            3,
+            0,
+            3,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "3d431a68-be65-4642-84c0-54475c49e8e5",
+        "tokens": [
+            "[CLS]",
+            "keep",
+            "the",
+            "keep",
+            "the",
+            "money",
+            "in",
+            "here",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2562,
+            1996,
+            2562,
+            1996,
+            2769,
+            1999,
+            2182,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "O",
+            "B-Behavioral",
+            "O",
+            "B-Social Kind/Role",
+            "O",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            0,
+            3,
+            0,
+            15,
+            0,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "7094021e-4348-4c87-ba7d-8fb2a4cfa7e5",
+        "tokens": [
+            "[CLS]",
+            "that",
+            "one",
+            "popped",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2008,
+            2028,
+            10538,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Perceptual",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            13,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "1dec8419-af27-4064-b826-2080fbbf66ce",
+        "tokens": [
+            "[CLS]",
+            "hm",
+            "this",
+            "one",
+            "'",
+            "s",
+            "texas",
+            "what",
+            "'",
+            "s",
+            "the",
+            "other",
+            "big",
+            "state",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            20287,
+            2023,
+            2028,
+            1005,
+            1055,
+            3146,
+            2054,
+            1005,
+            1055,
+            1996,
+            2060,
+            2502,
+            2110,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Perceptual",
+            "O",
+            "O",
+            "B-Social Kind/Role",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Perceptual",
+            "B-Social Kind/Role",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            13,
+            0,
+            0,
+            15,
+            0,
+            0,
+            0,
+            0,
+            0,
+            13,
+            15,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "f3315935-a4a4-4e4c-b45f-80683b76b980",
+        "tokens": [
+            "[CLS]",
+            "need",
+            "a",
+            "cow",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2342,
+            1037,
+            11190,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Mental State",
+            "O",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            7,
+            0,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "d0a0da35-1198-41b8-be35-a30887f67278",
+        "tokens": [
+            "[CLS]",
+            "i",
+            "can",
+            "'",
+            "t",
+            "see",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1045,
+            2064,
+            1005,
+            1056,
+            2156,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "O",
+            "O",
+            "O",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            0,
+            0,
+            0,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "8d3b3845-0691-4f31-b1ab-27707d8d0947",
+        "tokens": [
+            "[CLS]",
+            "those",
+            "are",
+            "great",
+            "huh",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2216,
+            2024,
+            2307,
+            9616,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Perceptual",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            13,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "87204d74-8aca-4356-9888-dfdde891d21e",
+        "tokens": [
+            "[CLS]",
+            "i",
+            "don",
+            "'",
+            "t",
+            "think",
+            "so",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1045,
+            2123,
+            1005,
+            1056,
+            2228,
+            2061,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "O",
+            "O",
+            "O",
+            "B-Mental State",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            0,
+            0,
+            0,
+            7,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "912fe957-f6f8-4434-9940-b55df0fdf2d8",
+        "tokens": [
+            "[CLS]",
+            "there",
+            "we",
+            "go",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2045,
+            2057,
+            2175,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "8e147188-e594-46f9-9a71-661d406066bf",
+        "tokens": [
+            "[CLS]",
+            "all",
+            "the",
+            "toys",
+            "on",
+            "the",
+            "floor",
+            "it",
+            "looks",
+            "like",
+            "home",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2035,
+            1996,
+            10899,
+            2006,
+            1996,
+            2723,
+            2009,
+            3504,
+            2066,
+            2188,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Artifacts",
+            "O",
+            "O",
+            "B-Non-Living Kind",
+            "O",
+            "B-Behavioral",
+            "O",
+            "B-Artifacts",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            1,
+            0,
+            0,
+            9,
+            0,
+            3,
+            0,
+            1,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "e1c44e56-14f2-400e-bc55-4e8937ceae57",
+        "tokens": [
+            "[CLS]",
+            "this",
+            "is",
+            "lulu",
+            "'",
+            "s",
+            "baby",
+            "brother",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2023,
+            2003,
+            21744,
+            1005,
+            1055,
+            3336,
+            2567,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "B-Biological Kind",
+            "B-Social Kind/Role",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            5,
+            0,
+            0,
+            5,
+            15,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "3a775726-95dd-4a12-8808-0ba59487efd2",
+        "tokens": [
+            "[CLS]",
+            "and",
+            "the",
+            "end",
+            "of",
+            "the",
+            "cone",
+            "in",
+            "point",
+            "##y",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1998,
+            1996,
+            2203,
+            1997,
+            1996,
+            13171,
+            1999,
+            2391,
+            2100,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Artifacts",
+            "O",
+            "B-Perceptual",
+            -100,
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            0,
+            13,
+            -100,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "35669af3-3716-421f-9de8-24f9abc3e5cc",
+        "tokens": [
+            "[CLS]",
+            "your",
+            "fire",
+            "truck",
+            "all",
+            "a",
+            "both",
+            "of",
+            "your",
+            "fire",
+            "trucks",
+            "are",
+            "going",
+            "up",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2115,
+            2543,
+            4744,
+            2035,
+            1037,
+            2119,
+            1997,
+            2115,
+            2543,
+            9322,
+            2024,
+            2183,
+            2039,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Artifacts",
+            "I-Artifacts",
+            "O",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Artifacts",
+            "I-Artifacts",
+            "O",
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            1,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            1,
+            2,
+            0,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "b9e237e5-31ce-42d1-abd5-1588692ba7ae",
+        "tokens": [
+            "[CLS]",
+            "what",
+            "'",
+            "s",
+            "this",
+            "collar",
+            "##ed",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2054,
+            1005,
+            1055,
+            2023,
+            9127,
+            2098,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Artifacts",
+            -100,
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            0,
+            1,
+            -100,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "82c8ac89-7b15-4835-bf25-aad9f8b3b7da",
+        "tokens": [
+            "[CLS]",
+            "a",
+            "very",
+            "nice",
+            "tune",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1037,
+            2200,
+            3835,
+            8694,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Normative Feature",
+            "B-Social Kind/Role",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            11,
+            15,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "4782d2cc-7602-4eef-832c-b9229bbbbaff",
+        "tokens": [
+            "[CLS]",
+            "ha",
+            "##ha",
+            "is",
+            "that",
+            "fun",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            5292,
+            3270,
+            2003,
+            2008,
+            4569,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            -100,
+            "O",
+            "O",
+            "B-Normative Feature",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            -100,
+            0,
+            0,
+            11,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "48e7932a-cbbe-4f08-8fb3-23646cf95e00",
+        "tokens": [
+            "[CLS]",
+            "excuse",
+            "me",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            8016,
+            2033,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "e4d8ea65-498c-4073-8d75-c2a783e70b41",
+        "tokens": [
+            "[CLS]",
+            "the",
+            "elephants",
+            "fell",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1996,
+            16825,
+            3062,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "7674e188-2e03-4c82-af2d-64530b0dbf72",
+        "tokens": [
+            "[CLS]",
+            "put",
+            "it",
+            "on",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2404,
+            2009,
+            2006,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Behavioral",
+            "O",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            3,
+            0,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "cda031ab-ee06-4120-9c32-9c7ccafd2d29",
+        "tokens": [
+            "[CLS]",
+            "let",
+            "'",
+            "s",
+            "make",
+            "believe",
+            "we",
+            "can",
+            "'",
+            "t",
+            "find",
+            "him",
+            "said",
+            "danny",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2292,
+            1005,
+            1055,
+            2191,
+            2903,
+            2057,
+            2064,
+            1005,
+            1056,
+            2424,
+            2032,
+            2056,
+            6266,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "B-Behavioral",
+            "B-Mental State",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "O",
+            "B-Behavioral",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            3,
+            7,
+            5,
+            0,
+            0,
+            0,
+            3,
+            5,
+            3,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "6ae80d5a-3bba-4e75-811f-7366158ab508",
+        "tokens": [
+            "[CLS]",
+            "but",
+            "gulp",
+            "oh",
+            "no",
+            "i",
+            "swallowed",
+            "it",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2021,
+            26546,
+            2821,
+            2053,
+            1045,
+            7351,
+            2009,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Behavioral",
+            "O",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            3,
+            0,
+            0,
+            5,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "6fc4b06f-39aa-433f-afe8-c63f39ae11a6",
+        "tokens": [
+            "[CLS]",
+            "how",
+            "do",
+            "you",
+            "pick",
+            "out",
+            "floppy",
+            "in",
+            "every",
+            "picture",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2129,
+            2079,
+            2017,
+            4060,
+            2041,
+            28491,
+            1999,
+            2296,
+            3861,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "B-Artifacts",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            5,
+            3,
+            0,
+            5,
+            0,
+            0,
+            1,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "32172e5c-ebed-4385-acc2-4b7d4892e988",
+        "tokens": [
+            "[CLS]",
+            "twenty",
+            "two",
+            "twenty",
+            "three",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            3174,
+            2048,
+            3174,
+            2093,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Perceptual",
+            "B-Perceptual",
+            "B-Perceptual",
+            "B-Perceptual",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            13,
+            13,
+            13,
+            13,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "b219d3a4-e219-4053-9855-719877d57520",
+        "tokens": [
+            "[CLS]",
+            "a",
+            "boy",
+            "or",
+            "a",
+            "girl",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1037,
+            2879,
+            2030,
+            1037,
+            2611,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Social Kind/Role",
+            "O",
+            "O",
+            "B-Social Kind/Role",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            15,
+            0,
+            0,
+            15,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "1270034d-9727-4709-8f45-5006f8c0d4a6",
+        "tokens": [
+            "[CLS]",
+            "do",
+            "you",
+            "drive",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2079,
+            2017,
+            3298,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            3,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "def6df18-51c7-49e3-ab0c-81db1e4bdc93",
+        "tokens": [
+            "[CLS]",
+            "i",
+            "think",
+            "that",
+            "'",
+            "s",
+            "a",
+            "baby",
+            "isn",
+            "'",
+            "t",
+            "it",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            1045,
+            2228,
+            2008,
+            1005,
+            1055,
+            1037,
+            3336,
+            3475,
+            1005,
+            1056,
+            2009,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "B-Mental State",
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Biological Kind",
+            "O",
+            "O",
+            "O",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            7,
+            0,
+            0,
+            0,
+            0,
+            5,
+            0,
+            0,
+            0,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "bd3ca7ff-fa46-4491-8946-ac1330cfa2cd",
+        "tokens": [
+            "[CLS]",
+            "that",
+            "'",
+            "s",
+            "a",
+            "zebra",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2008,
+            1005,
+            1055,
+            1037,
+            29145,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            0,
+            0,
+            0,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "ef8dd1aa-5360-4540-9670-c8aeccbde8c1",
+        "tokens": [
+            "[CLS]",
+            "well",
+            "i",
+            "will",
+            "do",
+            "it",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2092,
+            1045,
+            2097,
+            2079,
+            2009,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "O",
+            "B-Behavioral",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            0,
+            3,
+            0,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "fc5f90c1-69a1-48f1-8546-33071ecce8b4",
+        "tokens": [
+            "[CLS]",
+            "can",
+            "i",
+            "have",
+            "the",
+            "key",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2064,
+            1045,
+            2031,
+            1996,
+            3145,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            "B-Biological Kind",
+            "B-Behavioral",
+            "O",
+            "B-Artifacts",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            5,
+            3,
+            0,
+            1,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "cc6e3ec2-783a-4106-a7f2-6dd969062e52",
+        "tokens": [
+            "[CLS]",
+            "xx",
+            "##x",
+            "it",
+            "'",
+            "s",
+            "a",
+            "beaver",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            22038,
+            2595,
+            2009,
+            1005,
+            1055,
+            1037,
+            13570,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "O",
+            -100,
+            "O",
+            "O",
+            "O",
+            "O",
+            "B-Biological Kind",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            0,
+            -100,
+            0,
+            0,
+            0,
+            0,
+            5,
+            -100
+        ]
+    },
+    {
+        "sentence_id": "248b7cdb-01a2-4f24-8868-5919e44b89c3",
+        "tokens": [
+            "[CLS]",
+            "you",
+            "maybe",
+            "sitting",
+            "on",
+            "it",
+            "[SEP]"
+        ],
+        "token_ids": [
+            101,
+            2017,
+            2672,
+            3564,
+            2006,
+            2009,
+            102
+        ],
+        "ner_tags": [
+            -100,
+            "B-Biological Kind",
+            "O",
+            "B-Behavioral",
+            "O",
+            "O",
+            -100
+        ],
+        "label_ids": [
+            -100,
+            5,
+            0,
+            3,
+            0,
+            0,
+            -100
+        ]
+    }
+]
