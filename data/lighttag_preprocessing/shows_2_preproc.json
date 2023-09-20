@@ -1,0 +1,1674 @@
+[
+    {
+        "sentence": "I ATE TOO MUCH PIE.",
+        "sentence_id": "3d3e7284-ef31-4fc3-a8a0-4050e30c282f",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "I ATE TOO MUCH PIE.",
+        "sentence_id": "3d3e7284-ef31-4fc3-a8a0-4050e30c282f",
+        "word": "ATE",
+        "label": "Behavioral",
+        "start": 2,
+        "end": 5
+    },
+    {
+        "sentence": "I ATE TOO MUCH PIE.",
+        "sentence_id": "3d3e7284-ef31-4fc3-a8a0-4050e30c282f",
+        "word": "PIE",
+        "label": "Artifacts",
+        "start": 15,
+        "end": 18
+    },
+    {
+        "sentence": "I ATE TOO MUCH PIE.",
+        "sentence_id": "3d3e7284-ef31-4fc3-a8a0-4050e30c282f",
+        "word": "TOO MUCH",
+        "label": "Perceptual",
+        "start": 6,
+        "end": 14
+    },
+    {
+        "sentence": "I kind of think isomalt.",
+        "sentence_id": "23eeb08d-2aec-45b1-a3c4-60f56791a03c",
+        "word": "think",
+        "label": "Mental State",
+        "start": 10,
+        "end": 15
+    },
+    {
+        "sentence": "I kind of think isomalt.",
+        "sentence_id": "23eeb08d-2aec-45b1-a3c4-60f56791a03c",
+        "word": "isomalt",
+        "label": "Artifacts",
+        "start": 16,
+        "end": 23
+    },
+    {
+        "sentence": "I kind of think isomalt.",
+        "sentence_id": "23eeb08d-2aec-45b1-a3c4-60f56791a03c",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "They're sour, sweet, crunchy, and they're playful.",
+        "sentence_id": "2eb81d2f-6fd0-42d2-9516-f1c7a19f72e8",
+        "word": "playful",
+        "label": "Perceptual",
+        "start": 42,
+        "end": 49
+    },
+    {
+        "sentence": "They're sour, sweet, crunchy, and they're playful.",
+        "sentence_id": "2eb81d2f-6fd0-42d2-9516-f1c7a19f72e8",
+        "word": "crunchy",
+        "label": "Perceptual",
+        "start": 21,
+        "end": 28
+    },
+    {
+        "sentence": "They're sour, sweet, crunchy, and they're playful.",
+        "sentence_id": "2eb81d2f-6fd0-42d2-9516-f1c7a19f72e8",
+        "word": "they",
+        "label": "Biological Kind",
+        "start": 34,
+        "end": 38
+    },
+    {
+        "sentence": "They're sour, sweet, crunchy, and they're playful.",
+        "sentence_id": "2eb81d2f-6fd0-42d2-9516-f1c7a19f72e8",
+        "word": "sour",
+        "label": "Perceptual",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "sentence": "They're sour, sweet, crunchy, and they're playful.",
+        "sentence_id": "2eb81d2f-6fd0-42d2-9516-f1c7a19f72e8",
+        "word": "They",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "sentence": "They're sour, sweet, crunchy, and they're playful.",
+        "sentence_id": "2eb81d2f-6fd0-42d2-9516-f1c7a19f72e8",
+        "word": "sweet",
+        "label": "Perceptual",
+        "start": 14,
+        "end": 19
+    },
+    {
+        "sentence": "And thanks for saying all that, buddy.",
+        "sentence_id": "98dca8e1-332a-4567-9f4c-46a7b4979e37",
+        "word": "thanks",
+        "label": "Mental State",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "sentence": "And thanks for saying all that, buddy.",
+        "sentence_id": "98dca8e1-332a-4567-9f4c-46a7b4979e37",
+        "word": "saying",
+        "label": "Behavioral",
+        "start": 15,
+        "end": 21
+    },
+    {
+        "sentence": "And thanks for saying all that, buddy.",
+        "sentence_id": "98dca8e1-332a-4567-9f4c-46a7b4979e37",
+        "word": "buddy",
+        "label": "Social Kind/Role",
+        "start": 32,
+        "end": 37
+    },
+    {
+        "sentence": "My kids are getting hungry.",
+        "sentence_id": "44b7503d-c61e-42b5-b99a-2144d9c892c7",
+        "word": "kids",
+        "label": "Social Kind/Role",
+        "start": 3,
+        "end": 7
+    },
+    {
+        "sentence": "My kids are getting hungry.",
+        "sentence_id": "44b7503d-c61e-42b5-b99a-2144d9c892c7",
+        "word": "hungry",
+        "label": "Perceptual",
+        "start": 20,
+        "end": 26
+    },
+    {
+        "sentence": "My kids are getting hungry.",
+        "sentence_id": "44b7503d-c61e-42b5-b99a-2144d9c892c7",
+        "word": "getting",
+        "label": "Behavioral",
+        "start": 12,
+        "end": 19
+    },
+    {
+        "sentence": "Have fun in your new home!",
+        "sentence_id": "4bc5c2f7-f40b-4a28-a9a4-c779492e5ae6",
+        "word": "fun",
+        "label": "Behavioral",
+        "start": 5,
+        "end": 8
+    },
+    {
+        "sentence": "Have fun in your new home!",
+        "sentence_id": "4bc5c2f7-f40b-4a28-a9a4-c779492e5ae6",
+        "word": "Have",
+        "label": "Behavioral",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "sentence": "Have fun in your new home!",
+        "sentence_id": "4bc5c2f7-f40b-4a28-a9a4-c779492e5ae6",
+        "word": "home",
+        "label": "Artifacts",
+        "start": 21,
+        "end": 25
+    },
+    {
+        "sentence": "Have fun in your new home!",
+        "sentence_id": "4bc5c2f7-f40b-4a28-a9a4-c779492e5ae6",
+        "word": "new",
+        "label": "Perceptual",
+        "start": 17,
+        "end": 20
+    },
+    {
+        "sentence": "It's time for a double down!",
+        "sentence_id": "68f73d60-8bc4-432f-a7d9-7ecc159a8c17",
+        "word": "double down",
+        "label": "Behavioral",
+        "start": 16,
+        "end": 27
+    },
+    {
+        "sentence": "And his dad was a car the whole time!",
+        "sentence_id": "02741829-9771-4915-895f-e754cb0cec57",
+        "word": "whole",
+        "label": "Perceptual",
+        "start": 26,
+        "end": 31
+    },
+    {
+        "sentence": "And his dad was a car the whole time!",
+        "sentence_id": "02741829-9771-4915-895f-e754cb0cec57",
+        "word": "time",
+        "label": "Non-Living Kind",
+        "start": 32,
+        "end": 36
+    },
+    {
+        "sentence": "And his dad was a car the whole time!",
+        "sentence_id": "02741829-9771-4915-895f-e754cb0cec57",
+        "word": "dad",
+        "label": "Social Kind/Role",
+        "start": 8,
+        "end": 11
+    },
+    {
+        "sentence": "And his dad was a car the whole time!",
+        "sentence_id": "02741829-9771-4915-895f-e754cb0cec57",
+        "word": "car",
+        "label": "Artifacts",
+        "start": 18,
+        "end": 21
+    },
+    {
+        "sentence": "Well, she must be careful because being gigantic has its pros and cons.",
+        "sentence_id": "bd706cae-9027-40b7-997e-23e20388ab5f",
+        "word": "careful",
+        "label": "Perceptual",
+        "start": 18,
+        "end": 25
+    },
+    {
+        "sentence": "Well, she must be careful because being gigantic has its pros and cons.",
+        "sentence_id": "bd706cae-9027-40b7-997e-23e20388ab5f",
+        "word": "she",
+        "label": "Biological Kind",
+        "start": 6,
+        "end": 9
+    },
+    {
+        "sentence": "Well, she must be careful because being gigantic has its pros and cons.",
+        "sentence_id": "bd706cae-9027-40b7-997e-23e20388ab5f",
+        "word": "gigantic",
+        "label": "Perceptual",
+        "start": 40,
+        "end": 48
+    },
+    {
+        "sentence": "It's so pretty here.",
+        "sentence_id": "21d92a71-6ef7-4404-9bd9-522031a6b469",
+        "word": "pretty",
+        "label": "Normative Feature",
+        "start": 8,
+        "end": 14
+    },
+    {
+        "sentence": "That talked like a human?",
+        "sentence_id": "6aec3a44-44dc-4182-a963-63b4a7e674c1",
+        "word": "talked",
+        "label": "Behavioral",
+        "start": 5,
+        "end": 11
+    },
+    {
+        "sentence": "That talked like a human?",
+        "sentence_id": "6aec3a44-44dc-4182-a963-63b4a7e674c1",
+        "word": "human",
+        "label": "Biological Kind",
+        "start": 19,
+        "end": 24
+    },
+    {
+        "sentence": "That talked like a human?",
+        "sentence_id": "6aec3a44-44dc-4182-a963-63b4a7e674c1",
+        "word": "That",
+        "label": "Anthropomorphized",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "sentence": "for understanding There's a lot of funny stuff here.",
+        "sentence_id": "17d37dc7-eec0-43c1-a2c0-f815f5bb0e78",
+        "word": "understanding",
+        "label": "Mental State",
+        "start": 4,
+        "end": 17
+    },
+    {
+        "sentence": "for understanding There's a lot of funny stuff here.",
+        "sentence_id": "17d37dc7-eec0-43c1-a2c0-f815f5bb0e78",
+        "word": "funny",
+        "label": "Perceptual",
+        "start": 35,
+        "end": 40
+    },
+    {
+        "sentence": "Tim: MS. FRIZZLE, WE'VE GOT HALF OF THE MAP NOW.",
+        "sentence_id": "2ab39677-5f17-463e-ae45-5da5bde7e44d",
+        "word": "MAP",
+        "label": "Artifacts",
+        "start": 40,
+        "end": 43
+    },
+    {
+        "sentence": "Tim: MS. FRIZZLE, WE'VE GOT HALF OF THE MAP NOW.",
+        "sentence_id": "2ab39677-5f17-463e-ae45-5da5bde7e44d",
+        "word": "WE",
+        "label": "Biological Kind",
+        "start": 18,
+        "end": 20
+    },
+    {
+        "sentence": "Tim: MS. FRIZZLE, WE'VE GOT HALF OF THE MAP NOW.",
+        "sentence_id": "2ab39677-5f17-463e-ae45-5da5bde7e44d",
+        "word": "Tim",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "Tim: MS. FRIZZLE, WE'VE GOT HALF OF THE MAP NOW.",
+        "sentence_id": "2ab39677-5f17-463e-ae45-5da5bde7e44d",
+        "word": "HALF",
+        "label": "Perceptual",
+        "start": 28,
+        "end": 32
+    },
+    {
+        "sentence": "Tim: MS. FRIZZLE, WE'VE GOT HALF OF THE MAP NOW.",
+        "sentence_id": "2ab39677-5f17-463e-ae45-5da5bde7e44d",
+        "word": "GOT",
+        "label": "Behavioral",
+        "start": 24,
+        "end": 27
+    },
+    {
+        "sentence": "Tim: MS. FRIZZLE, WE'VE GOT HALF OF THE MAP NOW.",
+        "sentence_id": "2ab39677-5f17-463e-ae45-5da5bde7e44d",
+        "word": "MS. FRIZZLE",
+        "label": "Biological Kind",
+        "start": 5,
+        "end": 16
+    },
+    {
+        "sentence": "Can you find the missing shapes to open up the mystery box?",
+        "sentence_id": "65431f92-d936-4ec0-ac1e-feef86c4d7c1",
+        "word": "shapes",
+        "label": "Perceptual",
+        "start": 25,
+        "end": 31
+    },
+    {
+        "sentence": "Can you find the missing shapes to open up the mystery box?",
+        "sentence_id": "65431f92-d936-4ec0-ac1e-feef86c4d7c1",
+        "word": "find",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "sentence": "Can you find the missing shapes to open up the mystery box?",
+        "sentence_id": "65431f92-d936-4ec0-ac1e-feef86c4d7c1",
+        "word": "box",
+        "label": "Artifacts",
+        "start": 55,
+        "end": 58
+    },
+    {
+        "sentence": "Can you find the missing shapes to open up the mystery box?",
+        "sentence_id": "65431f92-d936-4ec0-ac1e-feef86c4d7c1",
+        "word": "missing",
+        "label": "Behavioral",
+        "start": 17,
+        "end": 24
+    },
+    {
+        "sentence": "Can you find the missing shapes to open up the mystery box?",
+        "sentence_id": "65431f92-d936-4ec0-ac1e-feef86c4d7c1",
+        "word": "open",
+        "label": "Behavioral",
+        "start": 35,
+        "end": 39
+    },
+    {
+        "sentence": "Can you find the missing shapes to open up the mystery box?",
+        "sentence_id": "65431f92-d936-4ec0-ac1e-feef86c4d7c1",
+        "word": "mystery",
+        "label": "Perceptual",
+        "start": 47,
+        "end": 54
+    },
+    {
+        "sentence": "Can you find the missing shapes to open up the mystery box?",
+        "sentence_id": "65431f92-d936-4ec0-ac1e-feef86c4d7c1",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "It looks like you've made new friends for good.",
+        "sentence_id": "107d4d11-0afd-4eca-afe0-bba4fefa1604",
+        "word": "good",
+        "label": "Normative Feature",
+        "start": 42,
+        "end": 46
+    },
+    {
+        "sentence": "It looks like you've made new friends for good.",
+        "sentence_id": "107d4d11-0afd-4eca-afe0-bba4fefa1604",
+        "word": "made",
+        "label": "Behavioral",
+        "start": 21,
+        "end": 25
+    },
+    {
+        "sentence": "It looks like you've made new friends for good.",
+        "sentence_id": "107d4d11-0afd-4eca-afe0-bba4fefa1604",
+        "word": "new",
+        "label": "Perceptual",
+        "start": 26,
+        "end": 29
+    },
+    {
+        "sentence": "It looks like you've made new friends for good.",
+        "sentence_id": "107d4d11-0afd-4eca-afe0-bba4fefa1604",
+        "word": "looks",
+        "label": "Behavioral",
+        "start": 3,
+        "end": 8
+    },
+    {
+        "sentence": "It looks like you've made new friends for good.",
+        "sentence_id": "107d4d11-0afd-4eca-afe0-bba4fefa1604",
+        "word": "friends",
+        "label": "Social Kind/Role",
+        "start": 30,
+        "end": 37
+    },
+    {
+        "sentence": "It looks like you've made new friends for good.",
+        "sentence_id": "107d4d11-0afd-4eca-afe0-bba4fefa1604",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 14,
+        "end": 17
+    },
+    {
+        "sentence": "I remember having it when we were on the bus.",
+        "sentence_id": "ccbd9515-bdc2-4a23-bfe0-3a5ae2c9435e",
+        "word": "bus",
+        "label": "Artifacts",
+        "start": 41,
+        "end": 44
+    },
+    {
+        "sentence": "I remember having it when we were on the bus.",
+        "sentence_id": "ccbd9515-bdc2-4a23-bfe0-3a5ae2c9435e",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 26,
+        "end": 28
+    },
+    {
+        "sentence": "I remember having it when we were on the bus.",
+        "sentence_id": "ccbd9515-bdc2-4a23-bfe0-3a5ae2c9435e",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "I remember having it when we were on the bus.",
+        "sentence_id": "ccbd9515-bdc2-4a23-bfe0-3a5ae2c9435e",
+        "word": "remember",
+        "label": "Mental State",
+        "start": 2,
+        "end": 10
+    },
+    {
+        "sentence": "I remember having it when we were on the bus.",
+        "sentence_id": "ccbd9515-bdc2-4a23-bfe0-3a5ae2c9435e",
+        "word": "having",
+        "label": "Behavioral",
+        "start": 11,
+        "end": 17
+    },
+    {
+        "sentence": "Some of it, the result of the choices we all make in our daily lives.",
+        "sentence_id": "1e100c7e-98da-4fa1-98d3-9f429d44957a",
+        "word": "daily",
+        "label": "Perceptual",
+        "start": 57,
+        "end": 62
+    },
+    {
+        "sentence": "Some of it, the result of the choices we all make in our daily lives.",
+        "sentence_id": "1e100c7e-98da-4fa1-98d3-9f429d44957a",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 38,
+        "end": 40
+    },
+    {
+        "sentence": "Some of it, the result of the choices we all make in our daily lives.",
+        "sentence_id": "1e100c7e-98da-4fa1-98d3-9f429d44957a",
+        "word": "lives",
+        "label": "Biological Kind",
+        "start": 63,
+        "end": 68
+    },
+    {
+        "sentence": "Some of it, the result of the choices we all make in our daily lives.",
+        "sentence_id": "1e100c7e-98da-4fa1-98d3-9f429d44957a",
+        "word": "make",
+        "label": "Behavioral",
+        "start": 45,
+        "end": 49
+    },
+    {
+        "sentence": "Some of it, the result of the choices we all make in our daily lives.",
+        "sentence_id": "1e100c7e-98da-4fa1-98d3-9f429d44957a",
+        "word": "choices",
+        "label": "Behavioral",
+        "start": 30,
+        "end": 37
+    },
+    {
+        "sentence": "Ooh, check out the colors.",
+        "sentence_id": "7cffc2ce-5a16-4a43-a880-a5acde5b1f32",
+        "word": "colors",
+        "label": "Perceptual",
+        "start": 19,
+        "end": 25
+    },
+    {
+        "sentence": "Ooh, check out the colors.",
+        "sentence_id": "7cffc2ce-5a16-4a43-a880-a5acde5b1f32",
+        "word": "check",
+        "label": "Behavioral",
+        "start": 5,
+        "end": 10
+    },
+    {
+        "sentence": "Forget the espadrilles, where's Orlando?",
+        "sentence_id": "e410118d-0d3d-4af5-b5a9-239f97d029f8",
+        "word": "Forget",
+        "label": "Mental State",
+        "start": 0,
+        "end": 6
+    },
+    {
+        "sentence": "Forget the espadrilles, where's Orlando?",
+        "sentence_id": "e410118d-0d3d-4af5-b5a9-239f97d029f8",
+        "word": "Orlando",
+        "label": "Non-Living Kind",
+        "start": 32,
+        "end": 39
+    },
+    {
+        "sentence": "Forget the espadrilles, where's Orlando?",
+        "sentence_id": "e410118d-0d3d-4af5-b5a9-239f97d029f8",
+        "word": "espadrilles",
+        "label": "Artifacts",
+        "start": 11,
+        "end": 22
+    },
+    {
+        "sentence": "You can stay with me for one night until we find your family.",
+        "sentence_id": "e0aed0c5-6ac0-422f-937e-76273cffa608",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 18,
+        "end": 20
+    },
+    {
+        "sentence": "You can stay with me for one night until we find your family.",
+        "sentence_id": "e0aed0c5-6ac0-422f-937e-76273cffa608",
+        "word": "family",
+        "label": "Social Kind/Role",
+        "start": 54,
+        "end": 60
+    },
+    {
+        "sentence": "You can stay with me for one night until we find your family.",
+        "sentence_id": "e0aed0c5-6ac0-422f-937e-76273cffa608",
+        "word": "night",
+        "label": "Non-Living Kind",
+        "start": 29,
+        "end": 34
+    },
+    {
+        "sentence": "You can stay with me for one night until we find your family.",
+        "sentence_id": "e0aed0c5-6ac0-422f-937e-76273cffa608",
+        "word": "stay",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "sentence": "You can stay with me for one night until we find your family.",
+        "sentence_id": "e0aed0c5-6ac0-422f-937e-76273cffa608",
+        "word": "one",
+        "label": "Perceptual",
+        "start": 25,
+        "end": 28
+    },
+    {
+        "sentence": "You can stay with me for one night until we find your family.",
+        "sentence_id": "e0aed0c5-6ac0-422f-937e-76273cffa608",
+        "word": "You",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "You can stay with me for one night until we find your family.",
+        "sentence_id": "e0aed0c5-6ac0-422f-937e-76273cffa608",
+        "word": "find",
+        "label": "Behavioral",
+        "start": 44,
+        "end": 48
+    },
+    {
+        "sentence": "You can stay with me for one night until we find your family.",
+        "sentence_id": "e0aed0c5-6ac0-422f-937e-76273cffa608",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 41,
+        "end": 43
+    },
+    {
+        "sentence": "You two are the slobber robbers!",
+        "sentence_id": "b4874f59-58a4-4607-a690-4b49cac53155",
+        "word": "slobber",
+        "label": "Behavioral",
+        "start": 16,
+        "end": 23
+    },
+    {
+        "sentence": "You two are the slobber robbers!",
+        "sentence_id": "b4874f59-58a4-4607-a690-4b49cac53155",
+        "word": "robbers",
+        "label": "Social Kind/Role",
+        "start": 24,
+        "end": 31
+    },
+    {
+        "sentence": "You two are the slobber robbers!",
+        "sentence_id": "b4874f59-58a4-4607-a690-4b49cac53155",
+        "word": "two",
+        "label": "Perceptual",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "You two are the slobber robbers!",
+        "sentence_id": "b4874f59-58a4-4607-a690-4b49cac53155",
+        "word": "You",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "And you, my friend, are gettin' a beatdown.",
+        "sentence_id": "54c6ee3b-2a18-4884-a754-decd3aa44251",
+        "word": "beatdown",
+        "label": "Behavioral",
+        "start": 34,
+        "end": 42
+    },
+    {
+        "sentence": "And you, my friend, are gettin' a beatdown.",
+        "sentence_id": "54c6ee3b-2a18-4884-a754-decd3aa44251",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "And you, my friend, are gettin' a beatdown.",
+        "sentence_id": "54c6ee3b-2a18-4884-a754-decd3aa44251",
+        "word": "friend",
+        "label": "Social Kind/Role",
+        "start": 12,
+        "end": 18
+    },
+    {
+        "sentence": "Come here, you little dancer.",
+        "sentence_id": "94c886a9-62ec-48a4-91a2-61de05d2045e",
+        "word": "Come",
+        "label": "Behavioral",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "sentence": "Come here, you little dancer.",
+        "sentence_id": "94c886a9-62ec-48a4-91a2-61de05d2045e",
+        "word": "dancer",
+        "label": "Social Kind/Role",
+        "start": 22,
+        "end": 28
+    },
+    {
+        "sentence": "Come here, you little dancer.",
+        "sentence_id": "94c886a9-62ec-48a4-91a2-61de05d2045e",
+        "word": "little",
+        "label": "Perceptual",
+        "start": 15,
+        "end": 21
+    },
+    {
+        "sentence": "Come here, you little dancer.",
+        "sentence_id": "94c886a9-62ec-48a4-91a2-61de05d2045e",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 11,
+        "end": 14
+    },
+    {
+        "sentence": "I get it, your mommy got lost somewhere.",
+        "sentence_id": "09f16591-497b-436c-8fb4-935858da15bd",
+        "word": "get",
+        "label": "Behavioral",
+        "start": 2,
+        "end": 5
+    },
+    {
+        "sentence": "I get it, your mommy got lost somewhere.",
+        "sentence_id": "09f16591-497b-436c-8fb4-935858da15bd",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "I get it, your mommy got lost somewhere.",
+        "sentence_id": "09f16591-497b-436c-8fb4-935858da15bd",
+        "word": "mommy",
+        "label": "Social Kind/Role",
+        "start": 15,
+        "end": 20
+    },
+    {
+        "sentence": "I get it, your mommy got lost somewhere.",
+        "sentence_id": "09f16591-497b-436c-8fb4-935858da15bd",
+        "word": "lost",
+        "label": "Behavioral",
+        "start": 25,
+        "end": 29
+    },
+    {
+        "sentence": "I get it, your mommy got lost somewhere.",
+        "sentence_id": "09f16591-497b-436c-8fb4-935858da15bd",
+        "word": "got",
+        "label": "Behavioral",
+        "start": 21,
+        "end": 24
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "gives",
+        "label": "Behavioral",
+        "start": 33,
+        "end": 38
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "more",
+        "label": "Perceptual",
+        "start": 7,
+        "end": 11
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "one",
+        "label": "Perceptual",
+        "start": 24,
+        "end": 27
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "tokens",
+        "label": "Artifacts",
+        "start": 68,
+        "end": 74
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "tokens",
+        "label": "Artifacts",
+        "start": 12,
+        "end": 18
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "get",
+        "label": "Behavioral",
+        "start": 83,
+        "end": 86
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "it",
+        "label": "Biological Kind",
+        "start": 75,
+        "end": 77
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "more",
+        "label": "Perceptual",
+        "start": 63,
+        "end": 67
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "bird",
+        "label": "Biological Kind",
+        "start": 28,
+        "end": 32
+    },
+    {
+        "sentence": "So the more tokens, um, one bird gives to… to its partner, the more tokens it will get back.",
+        "sentence_id": "6669531b-854f-44cc-8e56-f736e4cb1dd3",
+        "word": "partner",
+        "label": "Social Kind/Role",
+        "start": 50,
+        "end": 57
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "exact",
+        "label": "Perceptual",
+        "start": 19,
+        "end": 24
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "song",
+        "label": "Artifacts",
+        "start": 37,
+        "end": 41
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 42,
+        "end": 45
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "inspired",
+        "label": "Behavioral",
+        "start": 55,
+        "end": 63
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "matches",
+        "label": "Behavioral",
+        "start": 7,
+        "end": 14
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 64,
+        "end": 66
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "vibe",
+        "label": "Mental State",
+        "start": 25,
+        "end": 29
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "Izzy",
+        "label": "Biological Kind",
+        "start": 50,
+        "end": 54
+    },
+    {
+        "sentence": "And it matches the exact vibe of the song you and Izzy inspired me to write!",
+        "sentence_id": "dab1dba3-5af7-4394-89c8-c386b6f0a41a",
+        "word": "write",
+        "label": "Behavioral",
+        "start": 70,
+        "end": 75
+    },
+    {
+        "sentence": "Oh, you're right.",
+        "sentence_id": "6eb695d8-9ae9-4ac1-9569-c585d4125544",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "Oh, you're right.",
+        "sentence_id": "6eb695d8-9ae9-4ac1-9569-c585d4125544",
+        "word": "right",
+        "label": "Normative Feature",
+        "start": 11,
+        "end": 16
+    },
+    {
+        "sentence": "Yeah, and a bowl of noodles.",
+        "sentence_id": "416b1537-faf6-47b3-b6c4-d89820e7579e",
+        "word": "noodles",
+        "label": "Artifacts",
+        "start": 20,
+        "end": 27
+    },
+    {
+        "sentence": "Yeah, and a bowl of noodles.",
+        "sentence_id": "416b1537-faf6-47b3-b6c4-d89820e7579e",
+        "word": "bowl",
+        "label": "Artifacts",
+        "start": 12,
+        "end": 16
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "planet",
+        "label": "Non-Living Kind",
+        "start": 131,
+        "end": 137
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "simple",
+        "label": "Normative Feature",
+        "start": 5,
+        "end": 11
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "extends",
+        "label": "Behavioral",
+        "start": 90,
+        "end": 97
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "universe",
+        "label": "Non-Living Kind",
+        "start": 145,
+        "end": 153
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "her",
+        "label": "Biological Kind",
+        "start": 68,
+        "end": 71
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "she",
+        "label": "Biological Kind",
+        "start": 57,
+        "end": 60
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "impulse",
+        "label": "Behavioral",
+        "start": 20,
+        "end": 27
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "deep",
+        "label": "Perceptual",
+        "start": 41,
+        "end": 45
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "stems",
+        "label": "Behavioral",
+        "start": 28,
+        "end": 33
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "primal",
+        "label": "Perceptual",
+        "start": 13,
+        "end": 19
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "Serengeti",
+        "label": "Non-Living Kind",
+        "start": 109,
+        "end": 118
+    },
+    {
+        "sentence": "This simple, primal impulse stems from a deep connection she has to her surroundings that extends beyond the Serengeti, beyond our planet to the universe itself.",
+        "sentence_id": "e0234518-8c45-4841-8fd6-974aa833d1ec",
+        "word": "connection",
+        "label": "Relation",
+        "start": 46,
+        "end": 56
+    },
+    {
+        "sentence": "It's a very big bug that looks like a rhino!",
+        "sentence_id": "df8d2462-8cf6-4a25-b372-af416eb979f8",
+        "word": "rhino",
+        "label": "Biological Kind",
+        "start": 38,
+        "end": 43
+    },
+    {
+        "sentence": "It's a very big bug that looks like a rhino!",
+        "sentence_id": "df8d2462-8cf6-4a25-b372-af416eb979f8",
+        "word": "big",
+        "label": "Perceptual",
+        "start": 12,
+        "end": 15
+    },
+    {
+        "sentence": "It's a very big bug that looks like a rhino!",
+        "sentence_id": "df8d2462-8cf6-4a25-b372-af416eb979f8",
+        "word": "bug",
+        "label": "Biological Kind",
+        "start": 16,
+        "end": 19
+    },
+    {
+        "sentence": "It's a very big bug that looks like a rhino!",
+        "sentence_id": "df8d2462-8cf6-4a25-b372-af416eb979f8",
+        "word": "looks",
+        "label": "Behavioral",
+        "start": 25,
+        "end": 30
+    },
+    {
+        "sentence": "No, Emily knows more!",
+        "sentence_id": "64d95fe2-15ca-4d6f-9314-87a8beb6139c",
+        "word": "more",
+        "label": "Perceptual",
+        "start": 16,
+        "end": 20
+    },
+    {
+        "sentence": "No, Emily knows more!",
+        "sentence_id": "64d95fe2-15ca-4d6f-9314-87a8beb6139c",
+        "word": "Emily",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "sentence": "No, Emily knows more!",
+        "sentence_id": "64d95fe2-15ca-4d6f-9314-87a8beb6139c",
+        "word": "knows",
+        "label": "Mental State",
+        "start": 10,
+        "end": 15
+    },
+    {
+        "sentence": "Here I am, here I am Where are my lovely siblings Hiding now?",
+        "sentence_id": "1657688a-4a30-4063-9fcc-a81b9e2b6690",
+        "word": "lovely",
+        "label": "Normative Feature",
+        "start": 34,
+        "end": 40
+    },
+    {
+        "sentence": "Here I am, here I am Where are my lovely siblings Hiding now?",
+        "sentence_id": "1657688a-4a30-4063-9fcc-a81b9e2b6690",
+        "word": "Hiding",
+        "label": "Behavioral",
+        "start": 50,
+        "end": 56
+    },
+    {
+        "sentence": "Here I am, here I am Where are my lovely siblings Hiding now?",
+        "sentence_id": "1657688a-4a30-4063-9fcc-a81b9e2b6690",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 5,
+        "end": 6
+    },
+    {
+        "sentence": "Here I am, here I am Where are my lovely siblings Hiding now?",
+        "sentence_id": "1657688a-4a30-4063-9fcc-a81b9e2b6690",
+        "word": "siblings",
+        "label": "Social Kind/Role",
+        "start": 41,
+        "end": 49
+    },
+    {
+        "sentence": "Here I am, here I am Where are my lovely siblings Hiding now?",
+        "sentence_id": "1657688a-4a30-4063-9fcc-a81b9e2b6690",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 16,
+        "end": 17
+    },
+    {
+        "sentence": "Hello, what's your emergency?",
+        "sentence_id": "88b3eaa2-d926-4d6d-b9c9-ea02f9c6f7a6",
+        "word": "emergency",
+        "label": "Social Kind/Role",
+        "start": 19,
+        "end": 28
+    },
+    {
+        "sentence": "What did you tie the other end to?",
+        "sentence_id": "58ab996d-4971-49d5-bb63-02257f918130",
+        "word": "tie",
+        "label": "Behavioral",
+        "start": 13,
+        "end": 16
+    },
+    {
+        "sentence": "What did you tie the other end to?",
+        "sentence_id": "58ab996d-4971-49d5-bb63-02257f918130",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 9,
+        "end": 12
+    },
+    {
+        "sentence": "What did you tie the other end to?",
+        "sentence_id": "58ab996d-4971-49d5-bb63-02257f918130",
+        "word": "end",
+        "label": "Relation",
+        "start": 27,
+        "end": 30
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "have",
+        "label": "Behavioral",
+        "start": 40,
+        "end": 44
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "know",
+        "label": "Mental State",
+        "start": 7,
+        "end": 11
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "destruction",
+        "label": "Behavioral",
+        "start": 58,
+        "end": 69
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "Lusaka",
+        "label": "Non-Living Kind",
+        "start": 77,
+        "end": 83
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 3,
+        "end": 6
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "mysterious",
+        "label": "Perceptual",
+        "start": 20,
+        "end": 30
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "causing",
+        "label": "Behavioral",
+        "start": 50,
+        "end": 57
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "tornados",
+        "label": "Non-Living Kind",
+        "start": 31,
+        "end": 39
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "girls",
+        "label": "Social Kind/Role",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "sentence": "As you know, girls, mysterious tornados have been causing destruction across Lusaka.",
+        "sentence_id": "e9694b68-68cd-4c8d-89af-e3570b4729ec",
+        "word": "across",
+        "label": "Relation",
+        "start": 70,
+        "end": 76
+    },
+    {
+        "sentence": "I would invite you, Audrey, but Gilroy has practice really soon and... Are you sure?",
+        "sentence_id": "c929e1ed-2401-40ba-8e02-cc804a98f41b",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 75,
+        "end": 78
+    },
+    {
+        "sentence": "I would invite you, Audrey, but Gilroy has practice really soon and... Are you sure?",
+        "sentence_id": "c929e1ed-2401-40ba-8e02-cc804a98f41b",
+        "word": "Gilroy",
+        "label": "Biological Kind",
+        "start": 32,
+        "end": 38
+    },
+    {
+        "sentence": "I would invite you, Audrey, but Gilroy has practice really soon and... Are you sure?",
+        "sentence_id": "c929e1ed-2401-40ba-8e02-cc804a98f41b",
+        "word": "sure",
+        "label": "Mental State",
+        "start": 79,
+        "end": 83
+    },
+    {
+        "sentence": "I would invite you, Audrey, but Gilroy has practice really soon and... Are you sure?",
+        "sentence_id": "c929e1ed-2401-40ba-8e02-cc804a98f41b",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 15,
+        "end": 18
+    },
+    {
+        "sentence": "I would invite you, Audrey, but Gilroy has practice really soon and... Are you sure?",
+        "sentence_id": "c929e1ed-2401-40ba-8e02-cc804a98f41b",
+        "word": "practice",
+        "label": "Behavioral",
+        "start": 43,
+        "end": 51
+    },
+    {
+        "sentence": "I would invite you, Audrey, but Gilroy has practice really soon and... Are you sure?",
+        "sentence_id": "c929e1ed-2401-40ba-8e02-cc804a98f41b",
+        "word": "invite",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 14
+    },
+    {
+        "sentence": "I would invite you, Audrey, but Gilroy has practice really soon and... Are you sure?",
+        "sentence_id": "c929e1ed-2401-40ba-8e02-cc804a98f41b",
+        "word": "Audrey",
+        "label": "Biological Kind",
+        "start": 20,
+        "end": 26
+    },
+    {
+        "sentence": "I would invite you, Audrey, but Gilroy has practice really soon and... Are you sure?",
+        "sentence_id": "c929e1ed-2401-40ba-8e02-cc804a98f41b",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "But now, in summer, females gather on land to give birth.",
+        "sentence_id": "1128b39e-770f-49d2-9d8d-e6bee32913d1",
+        "word": "land",
+        "label": "Non-Living Kind",
+        "start": 38,
+        "end": 42
+    },
+    {
+        "sentence": "But now, in summer, females gather on land to give birth.",
+        "sentence_id": "1128b39e-770f-49d2-9d8d-e6bee32913d1",
+        "word": "give birth",
+        "label": "Behavioral",
+        "start": 46,
+        "end": 56
+    },
+    {
+        "sentence": "But now, in summer, females gather on land to give birth.",
+        "sentence_id": "1128b39e-770f-49d2-9d8d-e6bee32913d1",
+        "word": "females",
+        "label": "Social Kind/Role",
+        "start": 20,
+        "end": 27
+    },
+    {
+        "sentence": "But now, in summer, females gather on land to give birth.",
+        "sentence_id": "1128b39e-770f-49d2-9d8d-e6bee32913d1",
+        "word": "gather",
+        "label": "Behavioral",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "sentence": "But now, in summer, females gather on land to give birth.",
+        "sentence_id": "1128b39e-770f-49d2-9d8d-e6bee32913d1",
+        "word": "summer",
+        "label": "Non-Living Kind",
+        "start": 12,
+        "end": 18
+    },
+    {
+        "sentence": "I'll come back later for a good scratch.",
+        "sentence_id": "ee8d16d6-1a36-42db-8414-e36c1bd39541",
+        "word": "come",
+        "label": "Behavioral",
+        "start": 5,
+        "end": 9
+    },
+    {
+        "sentence": "I'll come back later for a good scratch.",
+        "sentence_id": "ee8d16d6-1a36-42db-8414-e36c1bd39541",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "I'll come back later for a good scratch.",
+        "sentence_id": "ee8d16d6-1a36-42db-8414-e36c1bd39541",
+        "word": "scratch",
+        "label": "Behavioral",
+        "start": 32,
+        "end": 39
+    },
+    {
+        "sentence": "I'll come back later for a good scratch.",
+        "sentence_id": "ee8d16d6-1a36-42db-8414-e36c1bd39541",
+        "word": "good",
+        "label": "Normative Feature",
+        "start": 27,
+        "end": 31
+    },
+    {
+        "sentence": "How'd you know that?",
+        "sentence_id": "e3a6a0ad-d5a2-40af-b94a-ac0ae1026d12",
+        "word": "know",
+        "label": "Mental State",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "sentence": "How'd you know that?",
+        "sentence_id": "e3a6a0ad-d5a2-40af-b94a-ac0ae1026d12",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 6,
+        "end": 9
+    },
+    {
+        "sentence": "That one went really high up.",
+        "sentence_id": "f05f33a6-a98a-4c35-ab84-88e3f78f816f",
+        "word": "went",
+        "label": "Behavioral",
+        "start": 9,
+        "end": 13
+    },
+    {
+        "sentence": "That one went really high up.",
+        "sentence_id": "f05f33a6-a98a-4c35-ab84-88e3f78f816f",
+        "word": "high",
+        "label": "Perceptual",
+        "start": 21,
+        "end": 25
+    },
+    {
+        "sentence": "That one went really high up.",
+        "sentence_id": "f05f33a6-a98a-4c35-ab84-88e3f78f816f",
+        "word": "one",
+        "label": "Artifacts",
+        "start": 5,
+        "end": 8
+    },
+    {
+        "sentence": "There's everything going on.",
+        "sentence_id": "f83a8480-aef7-42a7-bd01-95e0fa66d3bf",
+        "word": "going",
+        "label": "Behavioral",
+        "start": 19,
+        "end": 24
+    },
+    {
+        "sentence": "Aww... Where are we going, Momma?",
+        "sentence_id": "e2eb39cc-a38b-4d88-ae26-0bed121a97ee",
+        "word": "going",
+        "label": "Behavioral",
+        "start": 20,
+        "end": 25
+    },
+    {
+        "sentence": "Aww... Where are we going, Momma?",
+        "sentence_id": "e2eb39cc-a38b-4d88-ae26-0bed121a97ee",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 17,
+        "end": 19
+    },
+    {
+        "sentence": "Aww... Where are we going, Momma?",
+        "sentence_id": "e2eb39cc-a38b-4d88-ae26-0bed121a97ee",
+        "word": "Momma",
+        "label": "Social Kind/Role",
+        "start": 27,
+        "end": 32
+    },
+    {
+        "sentence": "I think we started something big.",
+        "sentence_id": "55a130c9-0a48-4b30-8262-8f1adf02fa03",
+        "word": "big",
+        "label": "Perceptual",
+        "start": 29,
+        "end": 32
+    },
+    {
+        "sentence": "I think we started something big.",
+        "sentence_id": "55a130c9-0a48-4b30-8262-8f1adf02fa03",
+        "word": "started",
+        "label": "Behavioral",
+        "start": 11,
+        "end": 18
+    },
+    {
+        "sentence": "I think we started something big.",
+        "sentence_id": "55a130c9-0a48-4b30-8262-8f1adf02fa03",
+        "word": "think",
+        "label": "Mental State",
+        "start": 2,
+        "end": 7
+    },
+    {
+        "sentence": "I think we started something big.",
+        "sentence_id": "55a130c9-0a48-4b30-8262-8f1adf02fa03",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 8,
+        "end": 10
+    },
+    {
+        "sentence": "I think we started something big.",
+        "sentence_id": "55a130c9-0a48-4b30-8262-8f1adf02fa03",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "crisis",
+        "label": "Behavioral",
+        "start": 29,
+        "end": 35
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "town",
+        "label": "Social Kind/Role",
+        "start": 21,
+        "end": 25
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "representing",
+        "label": "Behavioral",
+        "start": 6,
+        "end": 18
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "festival",
+        "label": "Social Kind/Role",
+        "start": 65,
+        "end": 73
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "We",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 2
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "French",
+        "label": "Social Kind/Role",
+        "start": 53,
+        "end": 59
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "film",
+        "label": "Artifacts",
+        "start": 60,
+        "end": 64
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "Anna",
+        "label": "Biological Kind",
+        "start": 75,
+        "end": 79
+    },
+    {
+        "sentence": "We're representing a town in crisis, not attending a French film festival, Anna.",
+        "sentence_id": "cfb02e9d-f2b5-40e3-8675-189934ebce78",
+        "word": "attending",
+        "label": "Behavioral",
+        "start": 41,
+        "end": 50
+    },
+    {
+        "sentence": "This is Maya, my best friend in the whole world.",
+        "sentence_id": "15ff6f14-c314-4ebf-b723-0ecb2e604c87",
+        "word": "world",
+        "label": "Non-Living Kind",
+        "start": 42,
+        "end": 47
+    },
+    {
+        "sentence": "This is Maya, my best friend in the whole world.",
+        "sentence_id": "15ff6f14-c314-4ebf-b723-0ecb2e604c87",
+        "word": "Maya",
+        "label": "Biological Kind",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "sentence": "This is Maya, my best friend in the whole world.",
+        "sentence_id": "15ff6f14-c314-4ebf-b723-0ecb2e604c87",
+        "word": "whole",
+        "label": "Perceptual",
+        "start": 36,
+        "end": 41
+    },
+    {
+        "sentence": "This is Maya, my best friend in the whole world.",
+        "sentence_id": "15ff6f14-c314-4ebf-b723-0ecb2e604c87",
+        "word": "friend",
+        "label": "Social Kind/Role",
+        "start": 22,
+        "end": 28
+    },
+    {
+        "sentence": "This is Maya, my best friend in the whole world.",
+        "sentence_id": "15ff6f14-c314-4ebf-b723-0ecb2e604c87",
+        "word": "best",
+        "label": "Normative Feature",
+        "start": 17,
+        "end": 21
+    },
+    {
+        "sentence": "We're going to go find our mommy.",
+        "sentence_id": "666c62f9-ec5d-4461-a7ea-8d6b0dd2db41",
+        "word": "mommy",
+        "label": "Social Kind/Role",
+        "start": 27,
+        "end": 32
+    },
+    {
+        "sentence": "We're going to go find our mommy.",
+        "sentence_id": "666c62f9-ec5d-4461-a7ea-8d6b0dd2db41",
+        "word": "find",
+        "label": "Behavioral",
+        "start": 18,
+        "end": 22
+    },
+    {
+        "sentence": "We're going to go find our mommy.",
+        "sentence_id": "666c62f9-ec5d-4461-a7ea-8d6b0dd2db41",
+        "word": "We",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 2
+    },
+    {
+        "sentence": "We're going to go find our mommy.",
+        "sentence_id": "666c62f9-ec5d-4461-a7ea-8d6b0dd2db41",
+        "word": "go",
+        "label": "Behavioral",
+        "start": 15,
+        "end": 17
+    },
+    {
+        "sentence": "Uh, Skipper, you're on decorating duty.",
+        "sentence_id": "96e688b7-bc46-4ba9-b231-3be711818bdf",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 13,
+        "end": 16
+    },
+    {
+        "sentence": "Uh, Skipper, you're on decorating duty.",
+        "sentence_id": "96e688b7-bc46-4ba9-b231-3be711818bdf",
+        "word": "decorating",
+        "label": "Behavioral",
+        "start": 23,
+        "end": 33
+    },
+    {
+        "sentence": "Uh, Skipper, you're on decorating duty.",
+        "sentence_id": "96e688b7-bc46-4ba9-b231-3be711818bdf",
+        "word": "duty",
+        "label": "Social Kind/Role",
+        "start": 34,
+        "end": 38
+    },
+    {
+        "sentence": "Uh, Skipper, you're on decorating duty.",
+        "sentence_id": "96e688b7-bc46-4ba9-b231-3be711818bdf",
+        "word": "Skipper",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 11
+    }
+]
