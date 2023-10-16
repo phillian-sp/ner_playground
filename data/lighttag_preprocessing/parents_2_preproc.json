@@ -1,0 +1,1802 @@
+[
+    {
+        "sentence": "maybe he's asleep on someone's bed.",
+        "sentence_id": "67c8615a-88c0-4af6-8d07-b078aa042246",
+        "word": "someone",
+        "label": "Biological Kind",
+        "start": 21,
+        "end": 28
+    },
+    {
+        "sentence": "maybe he's asleep on someone's bed.",
+        "sentence_id": "67c8615a-88c0-4af6-8d07-b078aa042246",
+        "word": "asleep",
+        "label": "Behavioral",
+        "start": 11,
+        "end": 17
+    },
+    {
+        "sentence": "maybe he's asleep on someone's bed.",
+        "sentence_id": "67c8615a-88c0-4af6-8d07-b078aa042246",
+        "word": "he",
+        "label": "Biological Kind",
+        "start": 6,
+        "end": 8
+    },
+    {
+        "sentence": "maybe he's asleep on someone's bed.",
+        "sentence_id": "67c8615a-88c0-4af6-8d07-b078aa042246",
+        "word": "bed",
+        "label": "Artifacts",
+        "start": 31,
+        "end": 34
+    },
+    {
+        "sentence": "oh I had the phone a few times.",
+        "sentence_id": "ac47cdda-cad4-46a2-85f1-207f1738c8c4",
+        "word": "phone",
+        "label": "Artifacts",
+        "start": 13,
+        "end": 18
+    },
+    {
+        "sentence": "oh I had the phone a few times.",
+        "sentence_id": "ac47cdda-cad4-46a2-85f1-207f1738c8c4",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 3,
+        "end": 4
+    },
+    {
+        "sentence": "oh I had the phone a few times.",
+        "sentence_id": "ac47cdda-cad4-46a2-85f1-207f1738c8c4",
+        "word": "had",
+        "label": "Behavioral",
+        "start": 5,
+        "end": 8
+    },
+    {
+        "sentence": "oh I had the phone a few times.",
+        "sentence_id": "ac47cdda-cad4-46a2-85f1-207f1738c8c4",
+        "word": "few",
+        "label": "Perceptual",
+        "start": 21,
+        "end": 24
+    },
+    {
+        "sentence": "Bro listen to me at least for a while I tell you last time put that over there.",
+        "sentence_id": "2b5c53f5-a94f-4332-a6b5-e6df32e82f1e",
+        "word": "Bro",
+        "label": "Social Kind/Role",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "Bro listen to me at least for a while I tell you last time put that over there.",
+        "sentence_id": "2b5c53f5-a94f-4332-a6b5-e6df32e82f1e",
+        "word": "put",
+        "label": "Behavioral",
+        "start": 59,
+        "end": 62
+    },
+    {
+        "sentence": "Bro listen to me at least for a while I tell you last time put that over there.",
+        "sentence_id": "2b5c53f5-a94f-4332-a6b5-e6df32e82f1e",
+        "word": "listen",
+        "label": "Behavioral",
+        "start": 4,
+        "end": 10
+    },
+    {
+        "sentence": "Bro listen to me at least for a while I tell you last time put that over there.",
+        "sentence_id": "2b5c53f5-a94f-4332-a6b5-e6df32e82f1e",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 38,
+        "end": 39
+    },
+    {
+        "sentence": "Bro listen to me at least for a while I tell you last time put that over there.",
+        "sentence_id": "2b5c53f5-a94f-4332-a6b5-e6df32e82f1e",
+        "word": "tell",
+        "label": "Behavioral",
+        "start": 40,
+        "end": 44
+    },
+    {
+        "sentence": "Bro listen to me at least for a while I tell you last time put that over there.",
+        "sentence_id": "2b5c53f5-a94f-4332-a6b5-e6df32e82f1e",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 45,
+        "end": 48
+    },
+    {
+        "sentence": "Bro listen to me at least for a while I tell you last time put that over there.",
+        "sentence_id": "2b5c53f5-a94f-4332-a6b5-e6df32e82f1e",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 14,
+        "end": 16
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "better",
+        "label": "Normative Feature",
+        "start": 55,
+        "end": 61
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "see",
+        "label": "Behavioral",
+        "start": 62,
+        "end": 65
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "Ana",
+        "label": "Biological Kind",
+        "start": 40,
+        "end": 43
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "put",
+        "label": "Behavioral",
+        "start": 36,
+        "end": 39
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 5,
+        "end": 7
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "laughing",
+        "label": "Behavioral",
+        "start": 72,
+        "end": 80
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "go",
+        "label": "Behavioral",
+        "start": 12,
+        "end": 14
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "she",
+        "label": "Biological Kind",
+        "start": 66,
+        "end": 69
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "arms",
+        "label": "Biological Kind",
+        "start": 50,
+        "end": 54
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 20,
+        "end": 23
+    },
+    {
+        "sentence": "well we can go with you maybe I can put Ana in my arms better see she's laughing.",
+        "sentence_id": "59698258-2cbf-4ae1-82ac-6e3252831a1a",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 30,
+        "end": 31
+    },
+    {
+        "sentence": "your egg wants to fall off.",
+        "sentence_id": "2144460a-aac2-4488-b12c-25c0fff6cb86",
+        "word": "egg",
+        "label": "Biological Kind",
+        "start": 5,
+        "end": 8
+    },
+    {
+        "sentence": "your egg wants to fall off.",
+        "sentence_id": "2144460a-aac2-4488-b12c-25c0fff6cb86",
+        "word": "fall",
+        "label": "Behavioral",
+        "start": 18,
+        "end": 22
+    },
+    {
+        "sentence": "your egg wants to fall off.",
+        "sentence_id": "2144460a-aac2-4488-b12c-25c0fff6cb86",
+        "word": "wants",
+        "label": "Mental State",
+        "start": 9,
+        "end": 14
+    },
+    {
+        "sentence": "some think the world is made for fun and frolic.",
+        "sentence_id": "09612469-1552-4b2e-9417-f037da95d4b2",
+        "word": "some",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "sentence": "some think the world is made for fun and frolic.",
+        "sentence_id": "09612469-1552-4b2e-9417-f037da95d4b2",
+        "word": "think",
+        "label": "Mental State",
+        "start": 5,
+        "end": 10
+    },
+    {
+        "sentence": "some think the world is made for fun and frolic.",
+        "sentence_id": "09612469-1552-4b2e-9417-f037da95d4b2",
+        "word": "world",
+        "label": "Non-Living Kind",
+        "start": 15,
+        "end": 20
+    },
+    {
+        "sentence": "some think the world is made for fun and frolic.",
+        "sentence_id": "09612469-1552-4b2e-9417-f037da95d4b2",
+        "word": "fun",
+        "label": "Behavioral",
+        "start": 33,
+        "end": 36
+    },
+    {
+        "sentence": "some think the world is made for fun and frolic.",
+        "sentence_id": "09612469-1552-4b2e-9417-f037da95d4b2",
+        "word": "frolic",
+        "label": "Behavioral",
+        "start": 41,
+        "end": 47
+    },
+    {
+        "sentence": "some think the world is made for fun and frolic.",
+        "sentence_id": "09612469-1552-4b2e-9417-f037da95d4b2",
+        "word": "made",
+        "label": "Behavioral",
+        "start": 24,
+        "end": 28
+    },
+    {
+        "sentence": "I saw something through here.",
+        "sentence_id": "5416498c-0924-45db-9f58-715ba8ee6693",
+        "word": "saw",
+        "label": "Behavioral",
+        "start": 2,
+        "end": 5
+    },
+    {
+        "sentence": "I saw something through here.",
+        "sentence_id": "5416498c-0924-45db-9f58-715ba8ee6693",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "can you help him out.",
+        "sentence_id": "43e90c4f-df98-4cc5-a4b2-634a057402fd",
+        "word": "him",
+        "label": "Biological Kind",
+        "start": 13,
+        "end": 16
+    },
+    {
+        "sentence": "can you help him out.",
+        "sentence_id": "43e90c4f-df98-4cc5-a4b2-634a057402fd",
+        "word": "help",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "sentence": "can you help him out.",
+        "sentence_id": "43e90c4f-df98-4cc5-a4b2-634a057402fd",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "what kind of soup would you like for lunch.",
+        "sentence_id": "4d15c32d-0f61-4896-82d2-31486ad3050a",
+        "word": "soup",
+        "label": "Artifacts",
+        "start": 13,
+        "end": 17
+    },
+    {
+        "sentence": "what kind of soup would you like for lunch.",
+        "sentence_id": "4d15c32d-0f61-4896-82d2-31486ad3050a",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 24,
+        "end": 27
+    },
+    {
+        "sentence": "what kind of soup would you like for lunch.",
+        "sentence_id": "4d15c32d-0f61-4896-82d2-31486ad3050a",
+        "word": "like",
+        "label": "Mental State",
+        "start": 28,
+        "end": 32
+    },
+    {
+        "sentence": "what kind of soup would you like for lunch.",
+        "sentence_id": "4d15c32d-0f61-4896-82d2-31486ad3050a",
+        "word": "lunch",
+        "label": "Artifacts",
+        "start": 37,
+        "end": 42
+    },
+    {
+        "sentence": "I don't know xxx.",
+        "sentence_id": "500de274-d7ab-4d8f-86e9-2ebaf9f456be",
+        "word": "know",
+        "label": "Mental State",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "sentence": "I don't know xxx.",
+        "sentence_id": "500de274-d7ab-4d8f-86e9-2ebaf9f456be",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "can you help him out.",
+        "sentence_id": "e47e43bc-9099-4402-8f38-bd2567561d9e",
+        "word": "him",
+        "label": "Biological Kind",
+        "start": 13,
+        "end": 16
+    },
+    {
+        "sentence": "can you help him out.",
+        "sentence_id": "e47e43bc-9099-4402-8f38-bd2567561d9e",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "can you help him out.",
+        "sentence_id": "e47e43bc-9099-4402-8f38-bd2567561d9e",
+        "word": "help",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "strong",
+        "label": "Perceptual",
+        "start": 11,
+        "end": 17
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "elephants",
+        "label": "Biological Kind",
+        "start": 33,
+        "end": 42
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "cabin",
+        "label": "Artifacts",
+        "start": 90,
+        "end": 95
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "them",
+        "label": "Biological Kind",
+        "start": 70,
+        "end": 74
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "feathers",
+        "label": "Biological Kind",
+        "start": 51,
+        "end": 59
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "rocket",
+        "label": "Artifacts",
+        "start": 103,
+        "end": 109
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "sucks",
+        "label": "Behavioral",
+        "start": 64,
+        "end": 69
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "wind",
+        "label": "Non-Living Kind",
+        "start": 18,
+        "end": 22
+    },
+    {
+        "sentence": "suddenly a strong wind picks the elephants up like feathers and sucks them right into the cabin of the rocket.",
+        "sentence_id": "657f5dc2-1055-413f-9e17-0025bec73e4e",
+        "word": "picks",
+        "label": "Behavioral",
+        "start": 23,
+        "end": 28
+    },
+    {
+        "sentence": "that's the only difference.",
+        "sentence_id": "c37ced96-6e7c-4d31-9ac2-77d040d1c450",
+        "word": "only",
+        "label": "Perceptual",
+        "start": 11,
+        "end": 15
+    },
+    {
+        "sentence": "that's the road over there.",
+        "sentence_id": "3b5a472c-16e0-4172-ae8a-11a29bc18945",
+        "word": "road",
+        "label": "Artifacts",
+        "start": 11,
+        "end": 15
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "warm",
+        "label": "Perceptual",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "one",
+        "label": "Perceptual",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "morning",
+        "label": "Non-Living Kind",
+        "start": 11,
+        "end": 18
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "came",
+        "label": "Behavioral",
+        "start": 63,
+        "end": 67
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "tiny",
+        "label": "Perceptual",
+        "start": 70,
+        "end": 74
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "egg",
+        "label": "Biological Kind",
+        "start": 59,
+        "end": 62
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "pop",
+        "label": "Behavioral",
+        "start": 44,
+        "end": 47
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "sun",
+        "label": "Non-Living Kind",
+        "start": 28,
+        "end": 31
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "caterpillar",
+        "label": "Biological Kind",
+        "start": 91,
+        "end": 102
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "hungry",
+        "label": "Perceptual",
+        "start": 84,
+        "end": 90
+    },
+    {
+        "sentence": "one Sunday morning the warm sun came up and pop out of the egg came a tiny and very hungry caterpillar.",
+        "sentence_id": "e0f78161-840d-43d8-bfe2-53758d995970",
+        "word": "came",
+        "label": "Behavioral",
+        "start": 32,
+        "end": 36
+    },
+    {
+        "sentence": "because I wanted to look pretty",
+        "sentence_id": "45159bcf-8f00-470a-9c1c-a504f36fd89c",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 8,
+        "end": 9
+    },
+    {
+        "sentence": "because I wanted to look pretty",
+        "sentence_id": "45159bcf-8f00-470a-9c1c-a504f36fd89c",
+        "word": "look",
+        "label": "Behavioral",
+        "start": 20,
+        "end": 24
+    },
+    {
+        "sentence": "because I wanted to look pretty",
+        "sentence_id": "45159bcf-8f00-470a-9c1c-a504f36fd89c",
+        "word": "pretty",
+        "label": "Normative Feature",
+        "start": 25,
+        "end": 31
+    },
+    {
+        "sentence": "because I wanted to look pretty",
+        "sentence_id": "45159bcf-8f00-470a-9c1c-a504f36fd89c",
+        "word": "wanted",
+        "label": "Mental State",
+        "start": 10,
+        "end": 16
+    },
+    {
+        "sentence": "what did you and Brian hafta do to the wax.",
+        "sentence_id": "756c7127-e66a-4cb2-bfce-33ac47bde014",
+        "word": "Brian",
+        "label": "Biological Kind",
+        "start": 17,
+        "end": 22
+    },
+    {
+        "sentence": "what did you and Brian hafta do to the wax.",
+        "sentence_id": "756c7127-e66a-4cb2-bfce-33ac47bde014",
+        "word": "do",
+        "label": "Behavioral",
+        "start": 29,
+        "end": 31
+    },
+    {
+        "sentence": "what did you and Brian hafta do to the wax.",
+        "sentence_id": "756c7127-e66a-4cb2-bfce-33ac47bde014",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 9,
+        "end": 12
+    },
+    {
+        "sentence": "what did you and Brian hafta do to the wax.",
+        "sentence_id": "756c7127-e66a-4cb2-bfce-33ac47bde014",
+        "word": "wax",
+        "label": "Artifacts",
+        "start": 39,
+        "end": 42
+    },
+    {
+        "sentence": "you don't need milk.",
+        "sentence_id": "247644a2-e3b7-431e-8b43-f15e8a43b8ea",
+        "word": "milk",
+        "label": "Biological Kind",
+        "start": 15,
+        "end": 19
+    },
+    {
+        "sentence": "you don't need milk.",
+        "sentence_id": "247644a2-e3b7-431e-8b43-f15e8a43b8ea",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "you don't need milk.",
+        "sentence_id": "247644a2-e3b7-431e-8b43-f15e8a43b8ea",
+        "word": "need",
+        "label": "Mental State",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "sentence": "I think I'm okay now.",
+        "sentence_id": "bad91976-dde3-4374-964e-d06bd75f6958",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 8,
+        "end": 9
+    },
+    {
+        "sentence": "I think I'm okay now.",
+        "sentence_id": "bad91976-dde3-4374-964e-d06bd75f6958",
+        "word": "okay",
+        "label": "Normative Feature",
+        "start": 12,
+        "end": 16
+    },
+    {
+        "sentence": "I think I'm okay now.",
+        "sentence_id": "bad91976-dde3-4374-964e-d06bd75f6958",
+        "word": "think",
+        "label": "Mental State",
+        "start": 2,
+        "end": 7
+    },
+    {
+        "sentence": "I think I'm okay now.",
+        "sentence_id": "bad91976-dde3-4374-964e-d06bd75f6958",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "can you get it it's heavy.",
+        "sentence_id": "2212f922-355e-4fca-ad9d-0eb3cfcb4915",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "can you get it it's heavy.",
+        "sentence_id": "2212f922-355e-4fca-ad9d-0eb3cfcb4915",
+        "word": "get",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 11
+    },
+    {
+        "sentence": "can you get it it's heavy.",
+        "sentence_id": "2212f922-355e-4fca-ad9d-0eb3cfcb4915",
+        "word": "heavy",
+        "label": "Perceptual",
+        "start": 20,
+        "end": 25
+    },
+    {
+        "sentence": "yeah that's alright honey.",
+        "sentence_id": "deff5b62-f93e-46b5-830d-4460b55c9faa",
+        "word": "honey",
+        "label": "Biological Kind",
+        "start": 20,
+        "end": 25
+    },
+    {
+        "sentence": "yeah that's alright honey.",
+        "sentence_id": "deff5b62-f93e-46b5-830d-4460b55c9faa",
+        "word": "alright",
+        "label": "Normative Feature",
+        "start": 12,
+        "end": 19
+    },
+    {
+        "sentence": "can I drive over my car.",
+        "sentence_id": "f5f943ad-986f-4c68-97e9-cd33b7783877",
+        "word": "car",
+        "label": "Artifacts",
+        "start": 20,
+        "end": 23
+    },
+    {
+        "sentence": "can I drive over my car.",
+        "sentence_id": "f5f943ad-986f-4c68-97e9-cd33b7783877",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 5
+    },
+    {
+        "sentence": "can I drive over my car.",
+        "sentence_id": "f5f943ad-986f-4c68-97e9-cd33b7783877",
+        "word": "drive",
+        "label": "Behavioral",
+        "start": 6,
+        "end": 11
+    },
+    {
+        "sentence": "because see it looks like little waffles.",
+        "sentence_id": "c76a8916-7783-42f8-9d85-ed907f715522",
+        "word": "waffles",
+        "label": "Artifacts",
+        "start": 33,
+        "end": 40
+    },
+    {
+        "sentence": "because see it looks like little waffles.",
+        "sentence_id": "c76a8916-7783-42f8-9d85-ed907f715522",
+        "word": "see",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 11
+    },
+    {
+        "sentence": "because see it looks like little waffles.",
+        "sentence_id": "c76a8916-7783-42f8-9d85-ed907f715522",
+        "word": "looks",
+        "label": "Behavioral",
+        "start": 15,
+        "end": 20
+    },
+    {
+        "sentence": "because see it looks like little waffles.",
+        "sentence_id": "c76a8916-7783-42f8-9d85-ed907f715522",
+        "word": "little",
+        "label": "Perceptual",
+        "start": 26,
+        "end": 32
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "pants",
+        "label": "Artifacts",
+        "start": 68,
+        "end": 73
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "go",
+        "label": "Behavioral",
+        "start": 19,
+        "end": 21
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "shoveling",
+        "label": "Behavioral",
+        "start": 30,
+        "end": 39
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 85,
+        "end": 88
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 3,
+        "end": 6
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "wear",
+        "label": "Behavioral",
+        "start": 57,
+        "end": 61
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "change",
+        "label": "Behavioral",
+        "start": 95,
+        "end": 101
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 44,
+        "end": 47
+    },
+    {
+        "sentence": "if you're going to go outside shoveling are you going to wear those pants out or are you gonna change.",
+        "sentence_id": "f5b21588-0e5f-481b-97d3-eeb2602633de",
+        "word": "outside",
+        "label": "Relation",
+        "start": 22,
+        "end": 29
+    },
+    {
+        "sentence": "but that's what I think.",
+        "sentence_id": "df154145-1e02-4e1a-9bae-d27cfb7fcf6c",
+        "word": "think",
+        "label": "Mental State",
+        "start": 18,
+        "end": 23
+    },
+    {
+        "sentence": "but that's what I think.",
+        "sentence_id": "df154145-1e02-4e1a-9bae-d27cfb7fcf6c",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 16,
+        "end": 17
+    },
+    {
+        "sentence": "you can write you can spell simulator.",
+        "sentence_id": "ff910937-1b5f-462a-aa2b-5e0dff9f15cf",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 14,
+        "end": 17
+    },
+    {
+        "sentence": "you can write you can spell simulator.",
+        "sentence_id": "ff910937-1b5f-462a-aa2b-5e0dff9f15cf",
+        "word": "spell",
+        "label": "Behavioral",
+        "start": 22,
+        "end": 27
+    },
+    {
+        "sentence": "you can write you can spell simulator.",
+        "sentence_id": "ff910937-1b5f-462a-aa2b-5e0dff9f15cf",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "you can write you can spell simulator.",
+        "sentence_id": "ff910937-1b5f-462a-aa2b-5e0dff9f15cf",
+        "word": "write",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "sentence": "you can write you can spell simulator.",
+        "sentence_id": "ff910937-1b5f-462a-aa2b-5e0dff9f15cf",
+        "word": "simulator",
+        "label": "Artifacts",
+        "start": 28,
+        "end": 37
+    },
+    {
+        "sentence": "you're gonna hafta teach me meters Chi.",
+        "sentence_id": "0da6f4bc-b7a3-4839-99e4-a1379c3636d3",
+        "word": "teach",
+        "label": "Behavioral",
+        "start": 19,
+        "end": 24
+    },
+    {
+        "sentence": "you're gonna hafta teach me meters Chi.",
+        "sentence_id": "0da6f4bc-b7a3-4839-99e4-a1379c3636d3",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 25,
+        "end": 27
+    },
+    {
+        "sentence": "you're gonna hafta teach me meters Chi.",
+        "sentence_id": "0da6f4bc-b7a3-4839-99e4-a1379c3636d3",
+        "word": "gonna",
+        "label": "Behavioral",
+        "start": 7,
+        "end": 12
+    },
+    {
+        "sentence": "you're gonna hafta teach me meters Chi.",
+        "sentence_id": "0da6f4bc-b7a3-4839-99e4-a1379c3636d3",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "you're gonna hafta teach me meters Chi.",
+        "sentence_id": "0da6f4bc-b7a3-4839-99e4-a1379c3636d3",
+        "word": "meters",
+        "label": "Perceptual",
+        "start": 28,
+        "end": 34
+    },
+    {
+        "sentence": "um and what's it doing with that.",
+        "sentence_id": "b57b64e4-622c-45cc-9347-9950669353b9",
+        "word": "doing",
+        "label": "Behavioral",
+        "start": 17,
+        "end": 22
+    },
+    {
+        "sentence": "um on my way here this really scary thing happened to me.",
+        "sentence_id": "c5c91456-7777-4a48-9c61-09383eed7167",
+        "word": "happened",
+        "label": "Behavioral",
+        "start": 42,
+        "end": 50
+    },
+    {
+        "sentence": "um on my way here this really scary thing happened to me.",
+        "sentence_id": "c5c91456-7777-4a48-9c61-09383eed7167",
+        "word": "scary",
+        "label": "Mental State",
+        "start": 30,
+        "end": 35
+    },
+    {
+        "sentence": "um on my way here this really scary thing happened to me.",
+        "sentence_id": "c5c91456-7777-4a48-9c61-09383eed7167",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 54,
+        "end": 56
+    },
+    {
+        "sentence": "I thought he wanted to bite me.",
+        "sentence_id": "c94c4733-8319-4cb1-970c-0c1fbb49e35c",
+        "word": "he",
+        "label": "Biological Kind",
+        "start": 10,
+        "end": 12
+    },
+    {
+        "sentence": "I thought he wanted to bite me.",
+        "sentence_id": "c94c4733-8319-4cb1-970c-0c1fbb49e35c",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "I thought he wanted to bite me.",
+        "sentence_id": "c94c4733-8319-4cb1-970c-0c1fbb49e35c",
+        "word": "wanted",
+        "label": "Mental State",
+        "start": 13,
+        "end": 19
+    },
+    {
+        "sentence": "I thought he wanted to bite me.",
+        "sentence_id": "c94c4733-8319-4cb1-970c-0c1fbb49e35c",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 28,
+        "end": 30
+    },
+    {
+        "sentence": "I thought he wanted to bite me.",
+        "sentence_id": "c94c4733-8319-4cb1-970c-0c1fbb49e35c",
+        "word": "bite",
+        "label": "Behavioral",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "sentence": "I thought he wanted to bite me.",
+        "sentence_id": "c94c4733-8319-4cb1-970c-0c1fbb49e35c",
+        "word": "thought",
+        "label": "Mental State",
+        "start": 2,
+        "end": 9
+    },
+    {
+        "sentence": "what more can you tell me.",
+        "sentence_id": "d339f689-f771-4949-a51a-0c0c1c02eb17",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 14,
+        "end": 17
+    },
+    {
+        "sentence": "what more can you tell me.",
+        "sentence_id": "d339f689-f771-4949-a51a-0c0c1c02eb17",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 23,
+        "end": 25
+    },
+    {
+        "sentence": "what more can you tell me.",
+        "sentence_id": "d339f689-f771-4949-a51a-0c0c1c02eb17",
+        "word": "tell",
+        "label": "Behavioral",
+        "start": 18,
+        "end": 22
+    },
+    {
+        "sentence": "can you help me put this stuff away.",
+        "sentence_id": "f1544854-5cf2-4df0-9179-8386ef229046",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "can you help me put this stuff away.",
+        "sentence_id": "f1544854-5cf2-4df0-9179-8386ef229046",
+        "word": "help",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 12
+    },
+    {
+        "sentence": "can you help me put this stuff away.",
+        "sentence_id": "f1544854-5cf2-4df0-9179-8386ef229046",
+        "word": "put",
+        "label": "Behavioral",
+        "start": 16,
+        "end": 19
+    },
+    {
+        "sentence": "can you help me put this stuff away.",
+        "sentence_id": "f1544854-5cf2-4df0-9179-8386ef229046",
+        "word": "away",
+        "label": "Relation",
+        "start": 31,
+        "end": 35
+    },
+    {
+        "sentence": "can you help me put this stuff away.",
+        "sentence_id": "f1544854-5cf2-4df0-9179-8386ef229046",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 13,
+        "end": 15
+    },
+    {
+        "sentence": "does this look like a quarter to you.",
+        "sentence_id": "fb89c8e8-5db0-48c7-9368-8b093424b52c",
+        "word": "quarter",
+        "label": "Artifacts",
+        "start": 22,
+        "end": 29
+    },
+    {
+        "sentence": "does this look like a quarter to you.",
+        "sentence_id": "fb89c8e8-5db0-48c7-9368-8b093424b52c",
+        "word": "look",
+        "label": "Behavioral",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "sentence": "does this look like a quarter to you.",
+        "sentence_id": "fb89c8e8-5db0-48c7-9368-8b093424b52c",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 33,
+        "end": 36
+    },
+    {
+        "sentence": "oh I got a tired kitten.",
+        "sentence_id": "fff21c08-41cb-4ebc-aca2-026d7998be6b",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 3,
+        "end": 4
+    },
+    {
+        "sentence": "oh I got a tired kitten.",
+        "sentence_id": "fff21c08-41cb-4ebc-aca2-026d7998be6b",
+        "word": "tired",
+        "label": "Behavioral",
+        "start": 11,
+        "end": 16
+    },
+    {
+        "sentence": "oh I got a tired kitten.",
+        "sentence_id": "fff21c08-41cb-4ebc-aca2-026d7998be6b",
+        "word": "got",
+        "label": "Behavioral",
+        "start": 5,
+        "end": 8
+    },
+    {
+        "sentence": "oh I got a tired kitten.",
+        "sentence_id": "fff21c08-41cb-4ebc-aca2-026d7998be6b",
+        "word": "kitten",
+        "label": "Biological Kind",
+        "start": 17,
+        "end": 23
+    },
+    {
+        "sentence": "you thank God for what.",
+        "sentence_id": "c56d62d3-989d-47ca-8618-9a136cd09e33",
+        "word": "God",
+        "label": "Social Kind/Role",
+        "start": 10,
+        "end": 13
+    },
+    {
+        "sentence": "you thank God for what.",
+        "sentence_id": "c56d62d3-989d-47ca-8618-9a136cd09e33",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "you thank God for what.",
+        "sentence_id": "c56d62d3-989d-47ca-8618-9a136cd09e33",
+        "word": "thank",
+        "label": "Behavioral",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "sentence": "do you wanna play with lego.",
+        "sentence_id": "4652a2ff-f322-4ed8-a4f1-bc93d6cd2647",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 3,
+        "end": 6
+    },
+    {
+        "sentence": "do you wanna play with lego.",
+        "sentence_id": "4652a2ff-f322-4ed8-a4f1-bc93d6cd2647",
+        "word": "lego",
+        "label": "Artifacts",
+        "start": 23,
+        "end": 27
+    },
+    {
+        "sentence": "do you wanna play with lego.",
+        "sentence_id": "4652a2ff-f322-4ed8-a4f1-bc93d6cd2647",
+        "word": "play",
+        "label": "Behavioral",
+        "start": 13,
+        "end": 17
+    },
+    {
+        "sentence": "do you wanna play with lego.",
+        "sentence_id": "4652a2ff-f322-4ed8-a4f1-bc93d6cd2647",
+        "word": "wanna",
+        "label": "Mental State",
+        "start": 7,
+        "end": 12
+    },
+    {
+        "sentence": "what do we have here.",
+        "sentence_id": "4b90e60c-71a8-4391-af6d-156668dd05e8",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 8,
+        "end": 10
+    },
+    {
+        "sentence": "what do we have here.",
+        "sentence_id": "4b90e60c-71a8-4391-af6d-156668dd05e8",
+        "word": "do",
+        "label": "Behavioral",
+        "start": 5,
+        "end": 7
+    },
+    {
+        "sentence": "what do we have here.",
+        "sentence_id": "4b90e60c-71a8-4391-af6d-156668dd05e8",
+        "word": "have",
+        "label": "Behavioral",
+        "start": 11,
+        "end": 15
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 76,
+        "end": 78
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "she",
+        "label": "Biological Kind",
+        "start": 6,
+        "end": 9
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "asleep",
+        "label": "Behavioral",
+        "start": 64,
+        "end": 70
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "coming",
+        "label": "Behavioral",
+        "start": 84,
+        "end": 90
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "got up",
+        "label": "Behavioral",
+        "start": 10,
+        "end": 16
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "home",
+        "label": "Artifacts",
+        "start": 91,
+        "end": 95
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "she",
+        "label": "Biological Kind",
+        "start": 41,
+        "end": 44
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "falling",
+        "label": "Behavioral",
+        "start": 56,
+        "end": 63
+    },
+    {
+        "sentence": "cause she got up at twelve thirty an and she was really falling asleep when we were coming home from nursery school and xxx.",
+        "sentence_id": "3d1b51fb-934d-4a79-b60c-e34ece8d867c",
+        "word": "nursery school",
+        "label": "Social Kind/Role",
+        "start": 101,
+        "end": 115
+    },
+    {
+        "sentence": "yeah and and you shot and you shoot it.",
+        "sentence_id": "76b991c2-5ad2-482d-af72-cbdb3e019e95",
+        "word": "shoot",
+        "label": "Behavioral",
+        "start": 30,
+        "end": 35
+    },
+    {
+        "sentence": "yeah and and you shot and you shoot it.",
+        "sentence_id": "76b991c2-5ad2-482d-af72-cbdb3e019e95",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 13,
+        "end": 16
+    },
+    {
+        "sentence": "yeah and and you shot and you shoot it.",
+        "sentence_id": "76b991c2-5ad2-482d-af72-cbdb3e019e95",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 26,
+        "end": 29
+    },
+    {
+        "sentence": "yeah and and you shot and you shoot it.",
+        "sentence_id": "76b991c2-5ad2-482d-af72-cbdb3e019e95",
+        "word": "shot",
+        "label": "Behavioral",
+        "start": 17,
+        "end": 21
+    },
+    {
+        "sentence": "you don't want the sun to go away.",
+        "sentence_id": "028674ce-c0b2-4f47-b98d-721338ff9ba4",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "you don't want the sun to go away.",
+        "sentence_id": "028674ce-c0b2-4f47-b98d-721338ff9ba4",
+        "word": "go",
+        "label": "Behavioral",
+        "start": 26,
+        "end": 28
+    },
+    {
+        "sentence": "you don't want the sun to go away.",
+        "sentence_id": "028674ce-c0b2-4f47-b98d-721338ff9ba4",
+        "word": "sun",
+        "label": "Non-Living Kind",
+        "start": 19,
+        "end": 22
+    },
+    {
+        "sentence": "you don't want the sun to go away.",
+        "sentence_id": "028674ce-c0b2-4f47-b98d-721338ff9ba4",
+        "word": "want",
+        "label": "Mental State",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "sentence": "I'd like to hear more.",
+        "sentence_id": "1712f1ae-954f-4019-ba6d-9c5c04d3e5de",
+        "word": "hear",
+        "label": "Behavioral",
+        "start": 12,
+        "end": 16
+    },
+    {
+        "sentence": "I'd like to hear more.",
+        "sentence_id": "1712f1ae-954f-4019-ba6d-9c5c04d3e5de",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 1
+    },
+    {
+        "sentence": "I'd like to hear more.",
+        "sentence_id": "1712f1ae-954f-4019-ba6d-9c5c04d3e5de",
+        "word": "like",
+        "label": "Mental State",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "sentence": "I'd like to hear more.",
+        "sentence_id": "1712f1ae-954f-4019-ba6d-9c5c04d3e5de",
+        "word": "more",
+        "label": "Perceptual",
+        "start": 17,
+        "end": 21
+    },
+    {
+        "sentence": "yes that's Laura's.",
+        "sentence_id": "26a7654f-7f8a-49ed-a2e2-15b6aa87407d",
+        "word": "Laura",
+        "label": "Biological Kind",
+        "start": 11,
+        "end": 16
+    },
+    {
+        "sentence": "we can have some juice later.",
+        "sentence_id": "26dbf1c2-4cc8-43e5-8ee9-62b0cff9be96",
+        "word": "juice",
+        "label": "Artifacts",
+        "start": 17,
+        "end": 22
+    },
+    {
+        "sentence": "we can have some juice later.",
+        "sentence_id": "26dbf1c2-4cc8-43e5-8ee9-62b0cff9be96",
+        "word": "have",
+        "label": "Behavioral",
+        "start": 7,
+        "end": 11
+    },
+    {
+        "sentence": "we can have some juice later.",
+        "sentence_id": "26dbf1c2-4cc8-43e5-8ee9-62b0cff9be96",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 2
+    },
+    {
+        "sentence": "but you were afraid too right.",
+        "sentence_id": "32b64432-1318-4a41-8019-81eb446faa60",
+        "word": "afraid",
+        "label": "Mental State",
+        "start": 13,
+        "end": 19
+    },
+    {
+        "sentence": "but you were afraid too right.",
+        "sentence_id": "32b64432-1318-4a41-8019-81eb446faa60",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "even though you're both like.",
+        "sentence_id": "3698b611-66a4-44a8-be70-66f81bf5cf8e",
+        "word": "like",
+        "label": "Mental State",
+        "start": 24,
+        "end": 28
+    },
+    {
+        "sentence": "even though you're both like.",
+        "sentence_id": "3698b611-66a4-44a8-be70-66f81bf5cf8e",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 12,
+        "end": 15
+    },
+    {
+        "sentence": "see Mommy's writing on that.",
+        "sentence_id": "3fe647b0-a17f-400e-8aec-cbce0a922df4",
+        "word": "Mommy",
+        "label": "Social Kind/Role",
+        "start": 4,
+        "end": 9
+    },
+    {
+        "sentence": "see Mommy's writing on that.",
+        "sentence_id": "3fe647b0-a17f-400e-8aec-cbce0a922df4",
+        "word": "see",
+        "label": "Behavioral",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "see Mommy's writing on that.",
+        "sentence_id": "3fe647b0-a17f-400e-8aec-cbce0a922df4",
+        "word": "writing",
+        "label": "Behavioral",
+        "start": 12,
+        "end": 19
+    },
+    {
+        "sentence": "those are all circus colors there.",
+        "sentence_id": "51919fea-d8ed-4299-8558-c5c7f4dfddb7",
+        "word": "colors",
+        "label": "Perceptual",
+        "start": 21,
+        "end": 27
+    },
+    {
+        "sentence": "those are all circus colors there.",
+        "sentence_id": "51919fea-d8ed-4299-8558-c5c7f4dfddb7",
+        "word": "circus",
+        "label": "Social Kind/Role",
+        "start": 14,
+        "end": 20
+    },
+    {
+        "sentence": "you want ta turn it over for Grandma so we can see.",
+        "sentence_id": "5d8fa013-93bc-45de-9764-3161a7c37341",
+        "word": "want",
+        "label": "Mental State",
+        "start": 4,
+        "end": 8
+    },
+    {
+        "sentence": "you want ta turn it over for Grandma so we can see.",
+        "sentence_id": "5d8fa013-93bc-45de-9764-3161a7c37341",
+        "word": "we",
+        "label": "Biological Kind",
+        "start": 40,
+        "end": 42
+    },
+    {
+        "sentence": "you want ta turn it over for Grandma so we can see.",
+        "sentence_id": "5d8fa013-93bc-45de-9764-3161a7c37341",
+        "word": "turn",
+        "label": "Behavioral",
+        "start": 12,
+        "end": 16
+    },
+    {
+        "sentence": "you want ta turn it over for Grandma so we can see.",
+        "sentence_id": "5d8fa013-93bc-45de-9764-3161a7c37341",
+        "word": "Grandma",
+        "label": "Social Kind/Role",
+        "start": 29,
+        "end": 36
+    },
+    {
+        "sentence": "you want ta turn it over for Grandma so we can see.",
+        "sentence_id": "5d8fa013-93bc-45de-9764-3161a7c37341",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 3
+    },
+    {
+        "sentence": "you want ta turn it over for Grandma so we can see.",
+        "sentence_id": "5d8fa013-93bc-45de-9764-3161a7c37341",
+        "word": "see",
+        "label": "Behavioral",
+        "start": 47,
+        "end": 50
+    },
+    {
+        "sentence": "what does Nana be fixing the baby.",
+        "sentence_id": "610dba3b-1ec4-47c6-9332-ad0de3b67dd2",
+        "word": "Nana",
+        "label": "Biological Kind",
+        "start": 10,
+        "end": 14
+    },
+    {
+        "sentence": "what does Nana be fixing the baby.",
+        "sentence_id": "610dba3b-1ec4-47c6-9332-ad0de3b67dd2",
+        "word": "baby",
+        "label": "Biological Kind",
+        "start": 29,
+        "end": 33
+    },
+    {
+        "sentence": "what does Nana be fixing the baby.",
+        "sentence_id": "610dba3b-1ec4-47c6-9332-ad0de3b67dd2",
+        "word": "fixing",
+        "label": "Behavioral",
+        "start": 18,
+        "end": 24
+    },
+    {
+        "sentence": "no you best leave this stuff alone.",
+        "sentence_id": "6199a1fc-9576-4318-b944-8b104e6d0964",
+        "word": "best",
+        "label": "Normative Feature",
+        "start": 7,
+        "end": 11
+    },
+    {
+        "sentence": "no you best leave this stuff alone.",
+        "sentence_id": "6199a1fc-9576-4318-b944-8b104e6d0964",
+        "word": "leave",
+        "label": "Behavioral",
+        "start": 12,
+        "end": 17
+    },
+    {
+        "sentence": "no you best leave this stuff alone.",
+        "sentence_id": "6199a1fc-9576-4318-b944-8b104e6d0964",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 3,
+        "end": 6
+    },
+    {
+        "sentence": "and you didn't get it until it was past your naptime huh.",
+        "sentence_id": "679c7b6a-73d9-4d42-bee2-8b0396702b51",
+        "word": "past",
+        "label": "Relation",
+        "start": 35,
+        "end": 39
+    },
+    {
+        "sentence": "and you didn't get it until it was past your naptime huh.",
+        "sentence_id": "679c7b6a-73d9-4d42-bee2-8b0396702b51",
+        "word": "naptime",
+        "label": "Behavioral",
+        "start": 45,
+        "end": 52
+    },
+    {
+        "sentence": "and you didn't get it until it was past your naptime huh.",
+        "sentence_id": "679c7b6a-73d9-4d42-bee2-8b0396702b51",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "and you didn't get it until it was past your naptime huh.",
+        "sentence_id": "679c7b6a-73d9-4d42-bee2-8b0396702b51",
+        "word": "get",
+        "label": "Behavioral",
+        "start": 15,
+        "end": 18
+    },
+    {
+        "sentence": "now I'll get my blocks.",
+        "sentence_id": "6ee28c53-256e-4448-8a4c-99a2f5c0172f",
+        "word": "I",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 5
+    },
+    {
+        "sentence": "now I'll get my blocks.",
+        "sentence_id": "6ee28c53-256e-4448-8a4c-99a2f5c0172f",
+        "word": "blocks",
+        "label": "Artifacts",
+        "start": 16,
+        "end": 22
+    },
+    {
+        "sentence": "now I'll get my blocks.",
+        "sentence_id": "6ee28c53-256e-4448-8a4c-99a2f5c0172f",
+        "word": "get",
+        "label": "Behavioral",
+        "start": 9,
+        "end": 12
+    },
+    {
+        "sentence": "what more can you tell me.",
+        "sentence_id": "70eb42b2-b28e-4e3e-8a26-b6f9d6fb5cfd",
+        "word": "more",
+        "label": "Perceptual",
+        "start": 5,
+        "end": 9
+    },
+    {
+        "sentence": "what more can you tell me.",
+        "sentence_id": "70eb42b2-b28e-4e3e-8a26-b6f9d6fb5cfd",
+        "word": "tell",
+        "label": "Behavioral",
+        "start": 18,
+        "end": 22
+    },
+    {
+        "sentence": "what more can you tell me.",
+        "sentence_id": "70eb42b2-b28e-4e3e-8a26-b6f9d6fb5cfd",
+        "word": "me",
+        "label": "Biological Kind",
+        "start": 23,
+        "end": 25
+    },
+    {
+        "sentence": "what more can you tell me.",
+        "sentence_id": "70eb42b2-b28e-4e3e-8a26-b6f9d6fb5cfd",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 14,
+        "end": 17
+    },
+    {
+        "sentence": "he even has purple in there.",
+        "sentence_id": "78700653-91bc-47ce-be4e-21cc07954fe9",
+        "word": "he",
+        "label": "Biological Kind",
+        "start": 0,
+        "end": 2
+    },
+    {
+        "sentence": "he even has purple in there.",
+        "sentence_id": "78700653-91bc-47ce-be4e-21cc07954fe9",
+        "word": "has",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 11
+    },
+    {
+        "sentence": "he even has purple in there.",
+        "sentence_id": "78700653-91bc-47ce-be4e-21cc07954fe9",
+        "word": "purple",
+        "label": "Perceptual",
+        "start": 12,
+        "end": 18
+    },
+    {
+        "sentence": "can you say what you see happening here.",
+        "sentence_id": "85d131a9-7f21-469a-9770-32d8fd6e20fa",
+        "word": "happening",
+        "label": "Behavioral",
+        "start": 25,
+        "end": 34
+    },
+    {
+        "sentence": "can you say what you see happening here.",
+        "sentence_id": "85d131a9-7f21-469a-9770-32d8fd6e20fa",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    },
+    {
+        "sentence": "can you say what you see happening here.",
+        "sentence_id": "85d131a9-7f21-469a-9770-32d8fd6e20fa",
+        "word": "see",
+        "label": "Behavioral",
+        "start": 21,
+        "end": 24
+    },
+    {
+        "sentence": "can you say what you see happening here.",
+        "sentence_id": "85d131a9-7f21-469a-9770-32d8fd6e20fa",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 17,
+        "end": 20
+    },
+    {
+        "sentence": "can you say what you see happening here.",
+        "sentence_id": "85d131a9-7f21-469a-9770-32d8fd6e20fa",
+        "word": "say",
+        "label": "Behavioral",
+        "start": 8,
+        "end": 11
+    },
+    {
+        "sentence": "look at my lips hospital.",
+        "sentence_id": "87a2ef49-5985-43be-9609-7c124c78528f",
+        "word": "hospital",
+        "label": "Social Kind/Role",
+        "start": 16,
+        "end": 24
+    },
+    {
+        "sentence": "look at my lips hospital.",
+        "sentence_id": "87a2ef49-5985-43be-9609-7c124c78528f",
+        "word": "lips",
+        "label": "Biological Kind",
+        "start": 11,
+        "end": 15
+    },
+    {
+        "sentence": "look at my lips hospital.",
+        "sentence_id": "87a2ef49-5985-43be-9609-7c124c78528f",
+        "word": "look",
+        "label": "Behavioral",
+        "start": 0,
+        "end": 4
+    },
+    {
+        "sentence": "are you ready for bed.",
+        "sentence_id": "bc91f3a9-5d7f-4620-aaa7-ee928c1477ca",
+        "word": "ready",
+        "label": "Perceptual",
+        "start": 8,
+        "end": 13
+    },
+    {
+        "sentence": "are you ready for bed.",
+        "sentence_id": "bc91f3a9-5d7f-4620-aaa7-ee928c1477ca",
+        "word": "bed",
+        "label": "Artifacts",
+        "start": 18,
+        "end": 21
+    },
+    {
+        "sentence": "are you ready for bed.",
+        "sentence_id": "bc91f3a9-5d7f-4620-aaa7-ee928c1477ca",
+        "word": "you",
+        "label": "Biological Kind",
+        "start": 4,
+        "end": 7
+    }
+]
